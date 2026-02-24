@@ -1089,7 +1089,7 @@ export default function App() {
 
       {/* ── Footer ── */}
       <footer style={{ padding: "18px 32px", textAlign: "center", fontSize: 11, color: C.textDim, borderTop: `1px solid ${C.border}`, background: C.white }}>
-        Brown Advisory Global Leaders Fund · Portfolio Analytics Dashboard · Data as of 31 December 2025
+        Brown Advisory Global Leaders Fund · Liam Hoogstad's Portfolio Analytics Dashboard · Data as of 31 December 2025
       </footer>
     </div>
   );
