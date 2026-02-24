@@ -1,0 +1,4856 @@
+{
+  "metadata": {
+    "fund_name": "Brown Advisory Global Leaders Fund",
+    "as_of_date": "2025-12-31",
+    "total_aum": 4718893906.29,
+    "num_holdings": 31,
+    "cash_weight": 3.4863,
+    "risk_free_rate": 0.045,
+    "benchmark": "URTH",
+    "generated_at": "2026-02-24T12:33:44.210690"
+  },
+  "holdings": [
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "weight": 8.55,
+      "sector": "Technology",
+      "country": "United States",
+      "market_value": 403291685.24,
+      "ann_return_pct": 17.8,
+      "ann_vol_pct": 21.81,
+      "risk_contribution_pct": 11.06,
+      "total_return_pct": 33.4
+    },
+    {
+      "name": "Alphabet Inc. Class C",
+      "ticker": "GOOG",
+      "weight": 5.99,
+      "sector": "Technology",
+      "country": "United States",
+      "market_value": 282509746.8,
+      "ann_return_pct": 55.55,
+      "ann_vol_pct": 29.38,
+      "risk_contribution_pct": 8.76,
+      "total_return_pct": 127.08
+    },
+    {
+      "name": "London Stock Exchange Group",
+      "ticker": "LSEG.L",
+      "weight": 4.97,
+      "sector": "Financials",
+      "country": "United Kingdom",
+      "market_value": 234609217.85,
+      "ann_return_pct": 1.32,
+      "ann_vol_pct": 21.22,
+      "risk_contribution_pct": 2.78,
+      "total_return_pct": -1.92
+    },
+    {
+      "name": "Visa Inc. Class A",
+      "ticker": "V",
+      "weight": 4.97,
+      "sector": "Financials",
+      "country": "United States",
+      "market_value": 234409303.35,
+      "ann_return_pct": 19.48,
+      "ann_vol_pct": 19.56,
+      "risk_contribution_pct": 5.2,
+      "total_return_pct": 38.62
+    },
+    {
+      "name": "Deutsche Boerse AG",
+      "ticker": "DB1.DE",
+      "weight": 4.68,
+      "sector": "Financials",
+      "country": "Germany",
+      "market_value": 221035342.69,
+      "ann_return_pct": 13.57,
+      "ann_vol_pct": 18.51,
+      "risk_contribution_pct": 2.53,
+      "total_return_pct": 25.38
+    },
+    {
+      "name": "Mastercard Inc. Class A",
+      "ticker": "MA",
+      "weight": 4.12,
+      "sector": "Financials",
+      "country": "United States",
+      "market_value": 194207667.2,
+      "ann_return_pct": 19.34,
+      "ann_vol_pct": 19.25,
+      "risk_contribution_pct": 4.49,
+      "total_return_pct": 38.45
+    },
+    {
+      "name": "Roche Holding Ltd",
+      "ticker": "ROG.SW",
+      "weight": 3.76,
+      "sector": "Health Care",
+      "country": "Switzerland",
+      "market_value": 177304649.6,
+      "ann_return_pct": 20.68,
+      "ann_vol_pct": 21.75,
+      "risk_contribution_pct": 1.58,
+      "total_return_pct": 40.21
+    },
+    {
+      "name": "Unilever PLC",
+      "ticker": "ULVR.L",
+      "weight": 3.55,
+      "sector": "Consumer Staples",
+      "country": "United Kingdom",
+      "market_value": 167609074.35,
+      "ann_return_pct": 10.25,
+      "ann_vol_pct": 16.62,
+      "risk_contribution_pct": 0.11,
+      "total_return_pct": 18.81
+    },
+    {
+      "name": "Charles Schwab Corp",
+      "ticker": "SCHW",
+      "weight": 3.21,
+      "sector": "Financials",
+      "country": "United States",
+      "market_value": 151531998.35,
+      "ann_return_pct": 25.44,
+      "ann_vol_pct": 24.92,
+      "risk_contribution_pct": 3.54,
+      "total_return_pct": 49.48
+    },
+    {
+      "name": "Taiwan Semiconductor (ADR)",
+      "ticker": "TSM",
+      "weight": 3.21,
+      "sector": "Technology",
+      "country": "Taiwan",
+      "market_value": 151483998.87,
+      "ann_return_pct": 85.83,
+      "ann_vol_pct": 40.09,
+      "risk_contribution_pct": 7.0,
+      "total_return_pct": 203.27
+    },
+    {
+      "name": "ASML Holding NV (ADR)",
+      "ticker": "ASML",
+      "weight": 3.2,
+      "sector": "Technology",
+      "country": "Netherlands",
+      "market_value": 150926220.06,
+      "ann_return_pct": 33.88,
+      "ann_vol_pct": 41.71,
+      "risk_contribution_pct": 7.4,
+      "total_return_pct": 52.19
+    },
+    {
+      "name": "AIA Group Limited",
+      "ticker": "1299.HK",
+      "weight": 3.06,
+      "sector": "Financials",
+      "country": "Hong Kong",
+      "market_value": 144237225.7,
+      "ann_return_pct": 19.91,
+      "ann_vol_pct": 31.23,
+      "risk_contribution_pct": 1.23,
+      "total_return_pct": 31.37
+    },
+    {
+      "name": "Safran SA",
+      "ticker": "SAF.PA",
+      "weight": 2.88,
+      "sector": "Industrials",
+      "country": "France",
+      "market_value": 135863141.36,
+      "ann_return_pct": 40.43,
+      "ann_vol_pct": 23.57,
+      "risk_contribution_pct": 2.55,
+      "total_return_pct": 89.79
+    },
+    {
+      "name": "HDFC Bank Limited",
+      "ticker": "HDFCBANK.NS",
+      "weight": 2.87,
+      "sector": "Financials",
+      "country": "India",
+      "market_value": 135391701.37,
+      "ann_return_pct": 11.19,
+      "ann_vol_pct": 18.8,
+      "risk_contribution_pct": 0.67,
+      "total_return_pct": 19.9
+    },
+    {
+      "name": "Experian PLC",
+      "ticker": "EXPN.L",
+      "weight": 2.85,
+      "sector": "Industrials",
+      "country": "United Kingdom",
+      "market_value": 134315305.11,
+      "ann_return_pct": 6.91,
+      "ann_vol_pct": 21.91,
+      "risk_contribution_pct": 2.68,
+      "total_return_pct": 9.22
+    },
+    {
+      "name": "Intuit Inc.",
+      "ticker": "INTU",
+      "weight": 2.68,
+      "sector": "Technology",
+      "country": "United States",
+      "market_value": 126499035.3,
+      "ann_return_pct": 10.27,
+      "ann_vol_pct": 28.77,
+      "risk_contribution_pct": 4.02,
+      "total_return_pct": 12.35
+    },
+    {
+      "name": "GE Aerospace",
+      "ticker": "GE",
+      "weight": 2.62,
+      "sector": "Industrials",
+      "country": "United States",
+      "market_value": 123398666.18,
+      "ann_return_pct": 82.44,
+      "ann_vol_pct": 29.9,
+      "risk_contribution_pct": 4.21,
+      "total_return_pct": 214.01
+    },
+    {
+      "name": "Edwards Lifesciences",
+      "ticker": "EW",
+      "weight": 2.54,
+      "sector": "Health Care",
+      "country": "United States",
+      "market_value": 119933877.25,
+      "ann_return_pct": 13.39,
+      "ann_vol_pct": 33.35,
+      "risk_contribution_pct": 2.49,
+      "total_return_pct": 14.07
+    },
+    {
+      "name": "Zoetis Inc. Class A",
+      "ticker": "ZTS",
+      "weight": 2.51,
+      "sector": "Health Care",
+      "country": "United States",
+      "market_value": 118641214.08,
+      "ann_return_pct": -15.42,
+      "ann_vol_pct": 26.67,
+      "risk_contribution_pct": 2.4,
+      "total_return_pct": -34.19
+    },
+    {
+      "name": "Atlas Copco AB Class B",
+      "ticker": "ATCO-B.ST",
+      "weight": 2.49,
+      "sector": "Industrials",
+      "country": "Sweden",
+      "market_value": 117293633.17,
+      "ann_return_pct": 5.9,
+      "ann_vol_pct": 25.35,
+      "risk_contribution_pct": 2.66,
+      "total_return_pct": 5.33
+    },
+    {
+      "name": "Rentokil Initial plc",
+      "ticker": "RTO.L",
+      "weight": 2.29,
+      "sector": "Industrials",
+      "country": "United Kingdom",
+      "market_value": 108118405.28,
+      "ann_return_pct": 7.98,
+      "ann_vol_pct": 35.13,
+      "risk_contribution_pct": 2.25,
+      "total_return_pct": 3.1
+    },
+    {
+      "name": "B3 SA - Brasil Bolsa Balcao",
+      "ticker": "B3SA3.SA",
+      "weight": 2.23,
+      "sector": "Financials",
+      "country": "Brazil",
+      "market_value": 105089116.43,
+      "ann_return_pct": 6.2,
+      "ann_vol_pct": 30.49,
+      "risk_contribution_pct": 1.87,
+      "total_return_pct": 2.95
+    },
+    {
+      "name": "Ferguson Enterprises",
+      "ticker": "FERG",
+      "weight": 2.2,
+      "sector": "Industrials",
+      "country": "United States",
+      "market_value": 103824391.02,
+      "ann_return_pct": 15.98,
+      "ann_vol_pct": 30.91,
+      "risk_contribution_pct": 3.2,
+      "total_return_pct": 23.11
+    },
+    {
+      "name": "Allegion PLC",
+      "ticker": "ALLE",
+      "weight": 2.17,
+      "sector": "Industrials",
+      "country": "Ireland",
+      "market_value": 102382599.72,
+      "ann_return_pct": 17.63,
+      "ann_vol_pct": 22.51,
+      "risk_contribution_pct": 2.13,
+      "total_return_pct": 32.6
+    },
+    {
+      "name": "Booking Holdings",
+      "ticker": "BKNG",
+      "weight": 2.15,
+      "sector": "Consumer Discretionary",
+      "country": "United States",
+      "market_value": 101338909.59,
+      "ann_return_pct": 29.72,
+      "ann_vol_pct": 26.88,
+      "risk_contribution_pct": 3.02,
+      "total_return_pct": 58.48
+    },
+    {
+      "name": "Workday Inc. Class A",
+      "ticker": "WDAY",
+      "weight": 2.05,
+      "sector": "Technology",
+      "country": "United States",
+      "market_value": 96860195.72,
+      "ann_return_pct": -4.71,
+      "ann_vol_pct": 33.06,
+      "risk_contribution_pct": 2.96,
+      "total_return_pct": -19.14
+    },
+    {
+      "name": "PT Bank Central Asia Tbk",
+      "ticker": "BBCA.JK",
+      "weight": 2.03,
+      "sector": "Financials",
+      "country": "Indonesia",
+      "market_value": 95616621.55,
+      "ann_return_pct": -1.34,
+      "ann_vol_pct": 24.65,
+      "risk_contribution_pct": 0.64,
+      "total_return_pct": -8.6
+    },
+    {
+      "name": "AutoZone Inc.",
+      "ticker": "AZO",
+      "weight": 2.01,
+      "sector": "Consumer Discretionary",
+      "country": "United States",
+      "market_value": 94867038.0,
+      "ann_return_pct": 17.27,
+      "ann_vol_pct": 21.46,
+      "risk_contribution_pct": 0.99,
+      "total_return_pct": 32.33
+    },
+    {
+      "name": "Autodesk Inc.",
+      "ticker": "ADSK",
+      "weight": 1.88,
+      "sector": "Technology",
+      "country": "United States",
+      "market_value": 88531262.82,
+      "ann_return_pct": 16.83,
+      "ann_vol_pct": 26.78,
+      "risk_contribution_pct": 2.89,
+      "total_return_pct": 27.94
+    },
+    {
+      "name": "CTS Eventim AG",
+      "ticker": "EVD.DE",
+      "weight": 1.66,
+      "sector": "Communication Services",
+      "country": "Germany",
+      "market_value": 78342685.08,
+      "ann_return_pct": 18.81,
+      "ann_vol_pct": 30.86,
+      "risk_contribution_pct": 1.17,
+      "total_return_pct": 29.05
+    },
+    {
+      "name": "Equifax Inc.",
+      "ticker": "EFX",
+      "weight": 0.97,
+      "sector": "Industrials",
+      "country": "United States",
+      "market_value": 45778657.38,
+      "ann_return_pct": 1.66,
+      "ann_vol_pct": 31.66,
+      "risk_contribution_pct": 1.53,
+      "total_return_pct": -6.68
+    }
+  ],
+  "portfolio_risk": {
+    "annualised_return_pct": 21.27,
+    "annualised_vol_pct": 11.53,
+    "sharpe_ratio": 1.46,
+    "var_95_daily_pct": -1.05,
+    "cvar_95_daily_pct": -1.67,
+    "max_drawdown_pct": -12.33
+  },
+  "concentration": {
+    "hhi": 0.0366,
+    "effective_n": 27.4,
+    "top5_weight": 29.16,
+    "top10_weight": 47.0
+  },
+  "sector_allocation": [
+    {
+      "sector": "Financials",
+      "weight": 32.13
+    },
+    {
+      "sector": "Technology",
+      "weight": 27.55
+    },
+    {
+      "sector": "Industrials",
+      "weight": 18.46
+    },
+    {
+      "sector": "Health Care",
+      "weight": 8.81
+    },
+    {
+      "sector": "Consumer Discretionary",
+      "weight": 4.16
+    },
+    {
+      "sector": "Consumer Staples",
+      "weight": 3.55
+    },
+    {
+      "sector": "Cash",
+      "weight": 3.49
+    },
+    {
+      "sector": "Communication Services",
+      "weight": 1.66
+    }
+  ],
+  "country_allocation": [
+    {
+      "country": "United States",
+      "weight": 48.44
+    },
+    {
+      "country": "United Kingdom",
+      "weight": 13.66
+    },
+    {
+      "country": "Germany",
+      "weight": 6.34
+    },
+    {
+      "country": "Switzerland",
+      "weight": 3.76
+    },
+    {
+      "country": "Cash",
+      "weight": 3.49
+    },
+    {
+      "country": "Taiwan",
+      "weight": 3.21
+    },
+    {
+      "country": "Netherlands",
+      "weight": 3.2
+    },
+    {
+      "country": "Hong Kong",
+      "weight": 3.06
+    },
+    {
+      "country": "France",
+      "weight": 2.88
+    },
+    {
+      "country": "India",
+      "weight": 2.87
+    },
+    {
+      "country": "Sweden",
+      "weight": 2.49
+    },
+    {
+      "country": "Brazil",
+      "weight": 2.23
+    },
+    {
+      "country": "Ireland",
+      "weight": 2.17
+    },
+    {
+      "country": "Indonesia",
+      "weight": 2.03
+    }
+  ],
+  "correlation_matrix": {
+    "tickers": [
+      "Microsoft Corporatio",
+      "Alphabet Inc. Class ",
+      "London Stock Exchang",
+      "Visa Inc. Class A",
+      "Deutsche Boerse AG",
+      "Mastercard Inc. Clas",
+      "Roche Holding Ltd",
+      "Unilever PLC",
+      "Charles Schwab Corp",
+      "Taiwan Semiconductor",
+      "ASML Holding NV (ADR",
+      "AIA Group Limited",
+      "Safran SA",
+      "HDFC Bank Limited",
+      "Experian PLC",
+      "Intuit Inc.",
+      "GE Aerospace",
+      "Edwards Lifesciences",
+      "Zoetis Inc. Class A",
+      "Atlas Copco AB Class",
+      "Rentokil Initial plc",
+      "B3 SA - Brasil Bolsa",
+      "Ferguson Enterprises",
+      "Allegion PLC",
+      "Booking Holdings",
+      "Workday Inc. Class A",
+      "PT Bank Central Asia",
+      "AutoZone Inc.",
+      "Autodesk Inc.",
+      "CTS Eventim AG",
+      "Equifax Inc."
+    ],
+    "matrix": [
+      [
+        1.0,
+        0.49,
+        -0.06,
+        0.34,
+        0.0,
+        0.35,
+        -0.03,
+        -0.2,
+        0.33,
+        0.5,
+        0.45,
+        -0.02,
+        0.19,
+        0.0,
+        0.16,
+        0.41,
+        0.4,
+        0.24,
+        0.16,
+        0.17,
+        0.09,
+        0.21,
+        0.29,
+        0.23,
+        0.39,
+        0.38,
+        0.08,
+        0.07,
+        0.47,
+        0.01,
+        0.29
+      ],
+      [
+        0.49,
+        1.0,
+        0.01,
+        0.27,
+        -0.04,
+        0.25,
+        0.01,
+        -0.16,
+        0.24,
+        0.4,
+        0.38,
+        0.01,
+        0.08,
+        0.0,
+        0.08,
+        0.31,
+        0.3,
+        0.17,
+        0.15,
+        0.17,
+        0.03,
+        0.21,
+        0.16,
+        0.15,
+        0.33,
+        0.25,
+        0.05,
+        0.01,
+        0.31,
+        0.02,
+        0.19
+      ],
+      [
+        -0.06,
+        0.01,
+        1.0,
+        0.15,
+        0.45,
+        0.15,
+        0.16,
+        0.26,
+        0.07,
+        0.01,
+        -0.01,
+        0.07,
+        0.21,
+        0.13,
+        0.37,
+        0.05,
+        0.1,
+        0.08,
+        0.03,
+        0.17,
+        0.17,
+        0.03,
+        0.05,
+        -0.05,
+        0.07,
+        0.02,
+        0.01,
+        0.12,
+        0.13,
+        0.16,
+        0.13
+      ],
+      [
+        0.34,
+        0.27,
+        0.15,
+        1.0,
+        0.15,
+        0.86,
+        0.06,
+        0.05,
+        0.37,
+        0.16,
+        0.2,
+        -0.02,
+        0.09,
+        0.03,
+        0.16,
+        0.36,
+        0.38,
+        0.21,
+        0.3,
+        0.12,
+        0.07,
+        0.13,
+        0.31,
+        0.33,
+        0.41,
+        0.34,
+        0.04,
+        0.31,
+        0.38,
+        0.09,
+        0.43
+      ],
+      [
+        0.0,
+        -0.04,
+        0.45,
+        0.15,
+        1.0,
+        0.19,
+        0.31,
+        0.3,
+        0.07,
+        -0.04,
+        -0.04,
+        0.05,
+        0.33,
+        0.09,
+        0.38,
+        0.09,
+        0.09,
+        0.06,
+        0.1,
+        0.2,
+        0.24,
+        0.09,
+        0.01,
+        0.08,
+        0.1,
+        0.07,
+        -0.04,
+        0.16,
+        0.1,
+        0.3,
+        0.14
+      ],
+      [
+        0.35,
+        0.25,
+        0.15,
+        0.86,
+        0.19,
+        1.0,
+        0.1,
+        0.08,
+        0.4,
+        0.17,
+        0.22,
+        -0.02,
+        0.11,
+        0.05,
+        0.18,
+        0.39,
+        0.4,
+        0.22,
+        0.34,
+        0.16,
+        0.11,
+        0.14,
+        0.32,
+        0.37,
+        0.42,
+        0.34,
+        0.05,
+        0.31,
+        0.42,
+        0.17,
+        0.44
+      ],
+      [
+        -0.03,
+        0.01,
+        0.16,
+        0.06,
+        0.31,
+        0.1,
+        1.0,
+        0.2,
+        -0.02,
+        -0.01,
+        -0.02,
+        0.06,
+        0.21,
+        0.1,
+        0.24,
+        0.03,
+        -0.03,
+        -0.01,
+        0.05,
+        0.18,
+        0.15,
+        0.02,
+        0.06,
+        0.12,
+        -0.05,
+        0.04,
+        0.02,
+        0.14,
+        0.04,
+        0.11,
+        0.13
+      ],
+      [
+        -0.2,
+        -0.16,
+        0.26,
+        0.05,
+        0.3,
+        0.08,
+        0.2,
+        1.0,
+        -0.03,
+        -0.17,
+        -0.17,
+        0.03,
+        -0.02,
+        0.07,
+        0.18,
+        -0.11,
+        -0.1,
+        -0.17,
+        0.13,
+        -0.04,
+        0.08,
+        -0.11,
+        -0.04,
+        0.07,
+        -0.06,
+        -0.05,
+        0.03,
+        0.11,
+        -0.04,
+        0.06,
+        0.07
+      ],
+      [
+        0.33,
+        0.24,
+        0.07,
+        0.37,
+        0.07,
+        0.4,
+        -0.02,
+        -0.03,
+        1.0,
+        0.22,
+        0.25,
+        -0.05,
+        0.15,
+        0.02,
+        0.14,
+        0.33,
+        0.38,
+        0.13,
+        0.16,
+        0.13,
+        0.08,
+        0.13,
+        0.27,
+        0.28,
+        0.33,
+        0.25,
+        0.05,
+        0.15,
+        0.32,
+        0.1,
+        0.24
+      ],
+      [
+        0.5,
+        0.4,
+        0.01,
+        0.16,
+        -0.04,
+        0.17,
+        -0.01,
+        -0.17,
+        0.22,
+        1.0,
+        0.69,
+        0.02,
+        0.19,
+        0.05,
+        0.24,
+        0.32,
+        0.43,
+        0.13,
+        0.14,
+        0.3,
+        0.12,
+        0.14,
+        0.32,
+        0.26,
+        0.37,
+        0.25,
+        0.07,
+        -0.05,
+        0.39,
+        0.04,
+        0.28
+      ],
+      [
+        0.45,
+        0.38,
+        -0.01,
+        0.2,
+        -0.04,
+        0.22,
+        -0.02,
+        -0.17,
+        0.25,
+        0.69,
+        1.0,
+        0.05,
+        0.18,
+        0.05,
+        0.18,
+        0.35,
+        0.4,
+        0.17,
+        0.2,
+        0.33,
+        0.08,
+        0.15,
+        0.38,
+        0.29,
+        0.38,
+        0.23,
+        0.06,
+        0.02,
+        0.4,
+        0.1,
+        0.29
+      ],
+      [
+        -0.02,
+        0.01,
+        0.07,
+        -0.02,
+        0.05,
+        -0.02,
+        0.06,
+        0.03,
+        -0.05,
+        0.02,
+        0.05,
+        1.0,
+        0.17,
+        0.11,
+        0.1,
+        -0.0,
+        -0.03,
+        -0.03,
+        0.03,
+        0.2,
+        0.04,
+        0.01,
+        0.01,
+        0.01,
+        0.03,
+        -0.02,
+        0.04,
+        -0.02,
+        -0.01,
+        0.08,
+        -0.0
+      ],
+      [
+        0.19,
+        0.08,
+        0.21,
+        0.09,
+        0.33,
+        0.11,
+        0.21,
+        -0.02,
+        0.15,
+        0.19,
+        0.18,
+        0.17,
+        1.0,
+        0.08,
+        0.4,
+        0.15,
+        0.3,
+        0.06,
+        0.01,
+        0.48,
+        0.25,
+        0.05,
+        0.17,
+        0.1,
+        0.11,
+        0.15,
+        0.08,
+        0.07,
+        0.17,
+        0.17,
+        0.11
+      ],
+      [
+        0.0,
+        0.0,
+        0.13,
+        0.03,
+        0.09,
+        0.05,
+        0.1,
+        0.07,
+        0.02,
+        0.05,
+        0.05,
+        0.11,
+        0.08,
+        1.0,
+        0.08,
+        -0.03,
+        0.04,
+        0.02,
+        0.04,
+        0.07,
+        0.08,
+        0.02,
+        0.02,
+        -0.0,
+        -0.05,
+        -0.07,
+        0.06,
+        0.04,
+        0.02,
+        0.02,
+        0.06
+      ],
+      [
+        0.16,
+        0.08,
+        0.37,
+        0.16,
+        0.38,
+        0.18,
+        0.24,
+        0.18,
+        0.14,
+        0.24,
+        0.18,
+        0.1,
+        0.4,
+        0.08,
+        1.0,
+        0.17,
+        0.2,
+        0.1,
+        0.14,
+        0.43,
+        0.33,
+        0.08,
+        0.17,
+        0.2,
+        0.12,
+        0.15,
+        0.01,
+        0.12,
+        0.23,
+        0.22,
+        0.35
+      ],
+      [
+        0.41,
+        0.31,
+        0.05,
+        0.36,
+        0.09,
+        0.39,
+        0.03,
+        -0.11,
+        0.33,
+        0.32,
+        0.35,
+        -0.0,
+        0.15,
+        -0.03,
+        0.17,
+        1.0,
+        0.34,
+        0.19,
+        0.25,
+        0.18,
+        0.09,
+        0.13,
+        0.32,
+        0.28,
+        0.39,
+        0.46,
+        0.03,
+        0.11,
+        0.52,
+        0.12,
+        0.36
+      ],
+      [
+        0.4,
+        0.3,
+        0.1,
+        0.38,
+        0.09,
+        0.4,
+        -0.03,
+        -0.1,
+        0.38,
+        0.43,
+        0.4,
+        -0.03,
+        0.3,
+        0.04,
+        0.2,
+        0.34,
+        1.0,
+        0.19,
+        0.21,
+        0.18,
+        0.11,
+        0.16,
+        0.35,
+        0.3,
+        0.41,
+        0.2,
+        0.06,
+        0.17,
+        0.35,
+        0.14,
+        0.31
+      ],
+      [
+        0.24,
+        0.17,
+        0.08,
+        0.21,
+        0.06,
+        0.22,
+        -0.01,
+        -0.17,
+        0.13,
+        0.13,
+        0.17,
+        -0.03,
+        0.06,
+        0.02,
+        0.1,
+        0.19,
+        0.19,
+        1.0,
+        0.12,
+        0.06,
+        0.08,
+        0.07,
+        0.09,
+        0.13,
+        0.28,
+        0.09,
+        -0.01,
+        0.04,
+        0.19,
+        0.04,
+        0.16
+      ],
+      [
+        0.16,
+        0.15,
+        0.03,
+        0.3,
+        0.1,
+        0.34,
+        0.05,
+        0.13,
+        0.16,
+        0.14,
+        0.2,
+        0.03,
+        0.01,
+        0.04,
+        0.14,
+        0.25,
+        0.21,
+        0.12,
+        1.0,
+        0.09,
+        0.01,
+        0.13,
+        0.31,
+        0.35,
+        0.23,
+        0.22,
+        0.05,
+        0.17,
+        0.25,
+        0.08,
+        0.37
+      ],
+      [
+        0.17,
+        0.17,
+        0.17,
+        0.12,
+        0.2,
+        0.16,
+        0.18,
+        -0.04,
+        0.13,
+        0.3,
+        0.33,
+        0.2,
+        0.48,
+        0.07,
+        0.43,
+        0.18,
+        0.18,
+        0.06,
+        0.09,
+        1.0,
+        0.23,
+        0.12,
+        0.25,
+        0.21,
+        0.17,
+        0.15,
+        0.07,
+        0.11,
+        0.16,
+        0.23,
+        0.18
+      ],
+      [
+        0.09,
+        0.03,
+        0.17,
+        0.07,
+        0.24,
+        0.11,
+        0.15,
+        0.08,
+        0.08,
+        0.12,
+        0.08,
+        0.04,
+        0.25,
+        0.08,
+        0.33,
+        0.09,
+        0.11,
+        0.08,
+        0.01,
+        0.23,
+        1.0,
+        0.04,
+        0.14,
+        0.15,
+        0.1,
+        0.03,
+        0.06,
+        0.08,
+        0.16,
+        0.15,
+        0.14
+      ],
+      [
+        0.21,
+        0.21,
+        0.03,
+        0.13,
+        0.09,
+        0.14,
+        0.02,
+        -0.11,
+        0.13,
+        0.14,
+        0.15,
+        0.01,
+        0.05,
+        0.02,
+        0.08,
+        0.13,
+        0.16,
+        0.07,
+        0.13,
+        0.12,
+        0.04,
+        1.0,
+        0.19,
+        0.18,
+        0.13,
+        0.16,
+        -0.0,
+        0.04,
+        0.25,
+        0.05,
+        0.21
+      ],
+      [
+        0.29,
+        0.16,
+        0.05,
+        0.31,
+        0.01,
+        0.32,
+        0.06,
+        -0.04,
+        0.27,
+        0.32,
+        0.38,
+        0.01,
+        0.17,
+        0.02,
+        0.17,
+        0.32,
+        0.35,
+        0.09,
+        0.31,
+        0.25,
+        0.14,
+        0.19,
+        1.0,
+        0.48,
+        0.31,
+        0.31,
+        0.07,
+        0.17,
+        0.42,
+        0.04,
+        0.38
+      ],
+      [
+        0.23,
+        0.15,
+        -0.05,
+        0.33,
+        0.08,
+        0.37,
+        0.12,
+        0.07,
+        0.28,
+        0.26,
+        0.29,
+        0.01,
+        0.1,
+        -0.0,
+        0.2,
+        0.28,
+        0.3,
+        0.13,
+        0.35,
+        0.21,
+        0.15,
+        0.18,
+        0.48,
+        1.0,
+        0.29,
+        0.21,
+        0.06,
+        0.25,
+        0.34,
+        0.03,
+        0.5
+      ],
+      [
+        0.39,
+        0.33,
+        0.07,
+        0.41,
+        0.1,
+        0.42,
+        -0.05,
+        -0.06,
+        0.33,
+        0.37,
+        0.38,
+        0.03,
+        0.11,
+        -0.05,
+        0.12,
+        0.39,
+        0.41,
+        0.28,
+        0.23,
+        0.17,
+        0.1,
+        0.13,
+        0.31,
+        0.29,
+        1.0,
+        0.33,
+        0.07,
+        0.13,
+        0.45,
+        0.16,
+        0.27
+      ],
+      [
+        0.38,
+        0.25,
+        0.02,
+        0.34,
+        0.07,
+        0.34,
+        0.04,
+        -0.05,
+        0.25,
+        0.25,
+        0.23,
+        -0.02,
+        0.15,
+        -0.07,
+        0.15,
+        0.46,
+        0.2,
+        0.09,
+        0.22,
+        0.15,
+        0.03,
+        0.16,
+        0.31,
+        0.21,
+        0.33,
+        1.0,
+        0.07,
+        0.06,
+        0.49,
+        0.03,
+        0.3
+      ],
+      [
+        0.08,
+        0.05,
+        0.01,
+        0.04,
+        -0.04,
+        0.05,
+        0.02,
+        0.03,
+        0.05,
+        0.07,
+        0.06,
+        0.04,
+        0.08,
+        0.06,
+        0.01,
+        0.03,
+        0.06,
+        -0.01,
+        0.05,
+        0.07,
+        0.06,
+        -0.0,
+        0.07,
+        0.06,
+        0.07,
+        0.07,
+        1.0,
+        0.02,
+        0.01,
+        0.03,
+        0.08
+      ],
+      [
+        0.07,
+        0.01,
+        0.12,
+        0.31,
+        0.16,
+        0.31,
+        0.14,
+        0.11,
+        0.15,
+        -0.05,
+        0.02,
+        -0.02,
+        0.07,
+        0.04,
+        0.12,
+        0.11,
+        0.17,
+        0.04,
+        0.17,
+        0.11,
+        0.08,
+        0.04,
+        0.17,
+        0.25,
+        0.13,
+        0.06,
+        0.02,
+        1.0,
+        0.14,
+        0.1,
+        0.22
+      ],
+      [
+        0.47,
+        0.31,
+        0.13,
+        0.38,
+        0.1,
+        0.42,
+        0.04,
+        -0.04,
+        0.32,
+        0.39,
+        0.4,
+        -0.01,
+        0.17,
+        0.02,
+        0.23,
+        0.52,
+        0.35,
+        0.19,
+        0.25,
+        0.16,
+        0.16,
+        0.25,
+        0.42,
+        0.34,
+        0.45,
+        0.49,
+        0.01,
+        0.14,
+        1.0,
+        0.07,
+        0.41
+      ],
+      [
+        0.01,
+        0.02,
+        0.16,
+        0.09,
+        0.3,
+        0.17,
+        0.11,
+        0.06,
+        0.1,
+        0.04,
+        0.1,
+        0.08,
+        0.17,
+        0.02,
+        0.22,
+        0.12,
+        0.14,
+        0.04,
+        0.08,
+        0.23,
+        0.15,
+        0.05,
+        0.04,
+        0.03,
+        0.16,
+        0.03,
+        0.03,
+        0.1,
+        0.07,
+        1.0,
+        0.05
+      ],
+      [
+        0.29,
+        0.19,
+        0.13,
+        0.43,
+        0.14,
+        0.44,
+        0.13,
+        0.07,
+        0.24,
+        0.28,
+        0.29,
+        -0.0,
+        0.11,
+        0.06,
+        0.35,
+        0.36,
+        0.31,
+        0.16,
+        0.37,
+        0.18,
+        0.14,
+        0.21,
+        0.38,
+        0.5,
+        0.27,
+        0.3,
+        0.08,
+        0.22,
+        0.41,
+        0.05,
+        1.0
+      ]
+    ]
+  },
+  "factor_analysis": {
+    "benchmark_name": "MSCI World (URTH)",
+    "benchmark_return_pct": 21.58,
+    "benchmark_vol_pct": 14.67,
+    "portfolio_beta": 0.67,
+    "systematic_return_pct": 14.38,
+    "idiosyncratic_return_pct": 6.89,
+    "holdings": [
+      {
+        "name": "Microsoft Corporation",
+        "ticker": "MSFT",
+        "weight": 8.5463,
+        "beta": 1.01,
+        "alpha_pct": -4.0,
+        "r_squared": 0.46,
+        "systematic_return_pct": 21.8,
+        "idiosyncratic_return_pct": -4.0
+      },
+      {
+        "name": "Alphabet Inc. Class C",
+        "ticker": "GOOG",
+        "weight": 5.9868,
+        "beta": 1.15,
+        "alpha_pct": 30.72,
+        "r_squared": 0.33,
+        "systematic_return_pct": 24.84,
+        "idiosyncratic_return_pct": 30.72
+      },
+      {
+        "name": "London Stock Exchange Group",
+        "ticker": "LSEG.L",
+        "weight": 4.9717,
+        "beta": 0.13,
+        "alpha_pct": -1.41,
+        "r_squared": 0.01,
+        "systematic_return_pct": 2.73,
+        "idiosyncratic_return_pct": -1.41
+      },
+      {
+        "name": "Visa Inc. Class A",
+        "ticker": "V",
+        "weight": 4.9675,
+        "beta": 0.77,
+        "alpha_pct": 2.88,
+        "r_squared": 0.33,
+        "systematic_return_pct": 16.6,
+        "idiosyncratic_return_pct": 2.88
+      },
+      {
+        "name": "Deutsche Boerse AG",
+        "ticker": "DB1.DE",
+        "weight": 4.684,
+        "beta": 0.12,
+        "alpha_pct": 10.99,
+        "r_squared": 0.01,
+        "systematic_return_pct": 2.57,
+        "idiosyncratic_return_pct": 10.99
+      },
+      {
+        "name": "Mastercard Inc. Class A",
+        "ticker": "MA",
+        "weight": 4.1155,
+        "beta": 0.79,
+        "alpha_pct": 2.26,
+        "r_squared": 0.36,
+        "systematic_return_pct": 17.08,
+        "idiosyncratic_return_pct": 2.26
+      },
+      {
+        "name": "Roche Holding Ltd",
+        "ticker": "ROG.SW",
+        "weight": 3.7573,
+        "beta": 0.1,
+        "alpha_pct": 18.47,
+        "r_squared": 0.0,
+        "systematic_return_pct": 2.21,
+        "idiosyncratic_return_pct": 18.47
+      },
+      {
+        "name": "Unilever PLC",
+        "ticker": "ULVR.L",
+        "weight": 3.5519,
+        "beta": -0.13,
+        "alpha_pct": 12.97,
+        "r_squared": 0.01,
+        "systematic_return_pct": -2.72,
+        "idiosyncratic_return_pct": 12.97
+      },
+      {
+        "name": "Charles Schwab Corp",
+        "ticker": "SCHW",
+        "weight": 3.2112,
+        "beta": 0.87,
+        "alpha_pct": 6.75,
+        "r_squared": 0.26,
+        "systematic_return_pct": 18.69,
+        "idiosyncratic_return_pct": 6.75
+      },
+      {
+        "name": "Taiwan Semiconductor (ADR)",
+        "ticker": "TSM",
+        "weight": 3.2102,
+        "beta": 1.75,
+        "alpha_pct": 48.02,
+        "r_squared": 0.41,
+        "systematic_return_pct": 37.81,
+        "idiosyncratic_return_pct": 48.02
+      },
+      {
+        "name": "ASML Holding NV (ADR)",
+        "ticker": "ASML",
+        "weight": 3.1983,
+        "beta": 1.83,
+        "alpha_pct": -5.64,
+        "r_squared": 0.41,
+        "systematic_return_pct": 39.52,
+        "idiosyncratic_return_pct": -5.64
+      },
+      {
+        "name": "AIA Group Limited",
+        "ticker": "1299.HK",
+        "weight": 3.0566,
+        "beta": 0.06,
+        "alpha_pct": 18.51,
+        "r_squared": 0.0,
+        "systematic_return_pct": 1.4,
+        "idiosyncratic_return_pct": 18.51
+      },
+      {
+        "name": "Safran SA",
+        "ticker": "SAF.PA",
+        "weight": 2.8791,
+        "beta": 0.39,
+        "alpha_pct": 32.1,
+        "r_squared": 0.06,
+        "systematic_return_pct": 8.33,
+        "idiosyncratic_return_pct": 32.1
+      },
+      {
+        "name": "HDFC Bank Limited",
+        "ticker": "HDFCBANK.NS",
+        "weight": 2.8691,
+        "beta": 0.08,
+        "alpha_pct": 9.55,
+        "r_squared": 0.0,
+        "systematic_return_pct": 1.64,
+        "idiosyncratic_return_pct": 9.55
+      },
+      {
+        "name": "Experian PLC",
+        "ticker": "EXPN.L",
+        "weight": 2.8463,
+        "beta": 0.38,
+        "alpha_pct": -1.32,
+        "r_squared": 0.06,
+        "systematic_return_pct": 8.22,
+        "idiosyncratic_return_pct": -1.32
+      },
+      {
+        "name": "Intuit Inc.",
+        "ticker": "INTU",
+        "weight": 2.6807,
+        "beta": 1.06,
+        "alpha_pct": -12.65,
+        "r_squared": 0.29,
+        "systematic_return_pct": 22.92,
+        "idiosyncratic_return_pct": -12.65
+      },
+      {
+        "name": "GE Aerospace",
+        "ticker": "GE",
+        "weight": 2.615,
+        "beta": 1.22,
+        "alpha_pct": 56.03,
+        "r_squared": 0.36,
+        "systematic_return_pct": 26.41,
+        "idiosyncratic_return_pct": 56.03
+      },
+      {
+        "name": "Edwards Lifesciences",
+        "ticker": "EW",
+        "weight": 2.5416,
+        "beta": 0.67,
+        "alpha_pct": -1.12,
+        "r_squared": 0.09,
+        "systematic_return_pct": 14.5,
+        "idiosyncratic_return_pct": -1.12
+      },
+      {
+        "name": "Zoetis Inc. Class A",
+        "ticker": "ZTS",
+        "weight": 2.5142,
+        "beta": 0.71,
+        "alpha_pct": -30.71,
+        "r_squared": 0.15,
+        "systematic_return_pct": 15.29,
+        "idiosyncratic_return_pct": -30.71
+      },
+      {
+        "name": "Atlas Copco AB Class B",
+        "ticker": "ATCO-B.ST",
+        "weight": 2.4856,
+        "beta": 0.55,
+        "alpha_pct": -6.02,
+        "r_squared": 0.1,
+        "systematic_return_pct": 11.92,
+        "idiosyncratic_return_pct": -6.02
+      },
+      {
+        "name": "Rentokil Initial plc",
+        "ticker": "RTO.L",
+        "weight": 2.2912,
+        "beta": 0.35,
+        "alpha_pct": 0.41,
+        "r_squared": 0.02,
+        "systematic_return_pct": 7.57,
+        "idiosyncratic_return_pct": 0.41
+      },
+      {
+        "name": "B3 SA - Brasil Bolsa Balcao",
+        "ticker": "B3SA3.SA",
+        "weight": 2.227,
+        "beta": 0.62,
+        "alpha_pct": -7.2,
+        "r_squared": 0.09,
+        "systematic_return_pct": 13.4,
+        "idiosyncratic_return_pct": -7.2
+      },
+      {
+        "name": "Ferguson Enterprises",
+        "ticker": "FERG",
+        "weight": 2.2002,
+        "beta": 1.12,
+        "alpha_pct": -8.13,
+        "r_squared": 0.28,
+        "systematic_return_pct": 24.1,
+        "idiosyncratic_return_pct": -8.13
+      },
+      {
+        "name": "Allegion PLC",
+        "ticker": "ALLE",
+        "weight": 2.1696,
+        "beta": 0.77,
+        "alpha_pct": 0.98,
+        "r_squared": 0.25,
+        "systematic_return_pct": 16.65,
+        "idiosyncratic_return_pct": 0.98
+      },
+      {
+        "name": "Booking Holdings",
+        "ticker": "BKNG",
+        "weight": 2.1475,
+        "beta": 1.07,
+        "alpha_pct": 6.59,
+        "r_squared": 0.34,
+        "systematic_return_pct": 23.13,
+        "idiosyncratic_return_pct": 6.59
+      },
+      {
+        "name": "Workday Inc. Class A",
+        "ticker": "WDAY",
+        "weight": 2.0526,
+        "beta": 1.01,
+        "alpha_pct": -26.58,
+        "r_squared": 0.2,
+        "systematic_return_pct": 21.87,
+        "idiosyncratic_return_pct": -26.58
+      },
+      {
+        "name": "PT Bank Central Asia Tbk",
+        "ticker": "BBCA.JK",
+        "weight": 2.0263,
+        "beta": 0.14,
+        "alpha_pct": -4.29,
+        "r_squared": 0.01,
+        "systematic_return_pct": 2.95,
+        "idiosyncratic_return_pct": -4.29
+      },
+      {
+        "name": "AutoZone Inc.",
+        "ticker": "AZO",
+        "weight": 2.0104,
+        "beta": 0.27,
+        "alpha_pct": 11.47,
+        "r_squared": 0.03,
+        "systematic_return_pct": 5.8,
+        "idiosyncratic_return_pct": 11.47
+      },
+      {
+        "name": "Autodesk Inc.",
+        "ticker": "ADSK",
+        "weight": 1.8761,
+        "beta": 1.13,
+        "alpha_pct": -7.59,
+        "r_squared": 0.38,
+        "systematic_return_pct": 24.43,
+        "idiosyncratic_return_pct": -7.59
+      },
+      {
+        "name": "CTS Eventim AG",
+        "ticker": "EVD.DE",
+        "weight": 1.6602,
+        "beta": 0.23,
+        "alpha_pct": 13.87,
+        "r_squared": 0.01,
+        "systematic_return_pct": 4.94,
+        "idiosyncratic_return_pct": 13.87
+      },
+      {
+        "name": "Equifax Inc.",
+        "ticker": "EFX",
+        "weight": 0.9701,
+        "beta": 1.16,
+        "alpha_pct": -23.44,
+        "r_squared": 0.29,
+        "systematic_return_pct": 25.1,
+        "idiosyncratic_return_pct": -23.44
+      }
+    ]
+  },
+  "scenarios": {
+    "Tech Selloff (-20%)": {
+      "portfolio_impact_pct": -5.51,
+      "top_losers": [
+        {
+          "name": "Microsoft Corporation",
+          "impact_pct": -20.0,
+          "weighted_impact_pct": -1.7093
+        },
+        {
+          "name": "Alphabet Inc. Class C",
+          "impact_pct": -20.0,
+          "weighted_impact_pct": -1.1974
+        },
+        {
+          "name": "Taiwan Semiconductor (ADR)",
+          "impact_pct": -20.0,
+          "weighted_impact_pct": -0.642
+        },
+        {
+          "name": "ASML Holding NV (ADR)",
+          "impact_pct": -20.0,
+          "weighted_impact_pct": -0.6397
+        },
+        {
+          "name": "Intuit Inc.",
+          "impact_pct": -20.0,
+          "weighted_impact_pct": -0.5361
+        }
+      ],
+      "top_gainers": []
+    },
+    "Global Recession (-15%)": {
+      "portfolio_impact_pct": -14.45,
+      "top_losers": [
+        {
+          "name": "Microsoft Corporation",
+          "impact_pct": -15.0,
+          "weighted_impact_pct": -1.2819
+        },
+        {
+          "name": "Alphabet Inc. Class C",
+          "impact_pct": -15.0,
+          "weighted_impact_pct": -0.898
+        },
+        {
+          "name": "London Stock Exchange Group",
+          "impact_pct": -15.0,
+          "weighted_impact_pct": -0.7458
+        },
+        {
+          "name": "Visa Inc. Class A",
+          "impact_pct": -15.0,
+          "weighted_impact_pct": -0.7451
+        },
+        {
+          "name": "Deutsche Boerse AG",
+          "impact_pct": -15.0,
+          "weighted_impact_pct": -0.7026
+        }
+      ],
+      "top_gainers": []
+    },
+    "Rates +100bps": {
+      "portfolio_impact_pct": -2.0,
+      "top_losers": [
+        {
+          "name": "Microsoft Corporation",
+          "impact_pct": -8.0,
+          "weighted_impact_pct": -0.6837
+        },
+        {
+          "name": "Alphabet Inc. Class C",
+          "impact_pct": -8.0,
+          "weighted_impact_pct": -0.4789
+        },
+        {
+          "name": "Taiwan Semiconductor (ADR)",
+          "impact_pct": -8.0,
+          "weighted_impact_pct": -0.2568
+        },
+        {
+          "name": "ASML Holding NV (ADR)",
+          "impact_pct": -8.0,
+          "weighted_impact_pct": -0.2559
+        },
+        {
+          "name": "Intuit Inc.",
+          "impact_pct": -8.0,
+          "weighted_impact_pct": -0.2145
+        }
+      ],
+      "top_gainers": [
+        {
+          "name": "London Stock Exchange Group",
+          "impact_pct": 5.0,
+          "weighted_impact_pct": 0.2486
+        },
+        {
+          "name": "Visa Inc. Class A",
+          "impact_pct": 5.0,
+          "weighted_impact_pct": 0.2484
+        },
+        {
+          "name": "Deutsche Boerse AG",
+          "impact_pct": 5.0,
+          "weighted_impact_pct": 0.2342
+        }
+      ]
+    },
+    "GBP Strengthens +10%": {
+      "portfolio_impact_pct": -5.79,
+      "top_losers": [
+        {
+          "name": "Microsoft Corporation",
+          "impact_pct": -7.0,
+          "weighted_impact_pct": -0.5982
+        },
+        {
+          "name": "Alphabet Inc. Class C",
+          "impact_pct": -7.0,
+          "weighted_impact_pct": -0.4191
+        },
+        {
+          "name": "Visa Inc. Class A",
+          "impact_pct": -7.0,
+          "weighted_impact_pct": -0.3477
+        },
+        {
+          "name": "Deutsche Boerse AG",
+          "impact_pct": -7.0,
+          "weighted_impact_pct": -0.3279
+        },
+        {
+          "name": "Mastercard Inc. Class A",
+          "impact_pct": -7.0,
+          "weighted_impact_pct": -0.2881
+        }
+      ],
+      "top_gainers": []
+    },
+    "EM Crisis": {
+      "portfolio_impact_pct": -2.26,
+      "top_losers": [
+        {
+          "name": "HDFC Bank Limited",
+          "impact_pct": -20.0,
+          "weighted_impact_pct": -0.5738
+        },
+        {
+          "name": "B3 SA - Brasil Bolsa Balcao",
+          "impact_pct": -25.0,
+          "weighted_impact_pct": -0.5567
+        },
+        {
+          "name": "PT Bank Central Asia Tbk",
+          "impact_pct": -25.0,
+          "weighted_impact_pct": -0.5066
+        },
+        {
+          "name": "Taiwan Semiconductor (ADR)",
+          "impact_pct": -10.0,
+          "weighted_impact_pct": -0.321
+        },
+        {
+          "name": "AIA Group Limited",
+          "impact_pct": -10.0,
+          "weighted_impact_pct": -0.3057
+        }
+      ],
+      "top_gainers": []
+    }
+  },
+  "performance_attribution": [
+    {
+      "name": "Alphabet Inc. Class C",
+      "ticker": "GOOG",
+      "stock_return_pct": 127.08,
+      "weight": 5.9868,
+      "contribution_pct": 7.6079
+    },
+    {
+      "name": "Taiwan Semiconductor (ADR)",
+      "ticker": "TSM",
+      "stock_return_pct": 203.27,
+      "weight": 3.2102,
+      "contribution_pct": 6.5255
+    },
+    {
+      "name": "GE Aerospace",
+      "ticker": "GE",
+      "stock_return_pct": 214.01,
+      "weight": 2.615,
+      "contribution_pct": 5.5963
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "stock_return_pct": 33.4,
+      "weight": 8.5463,
+      "contribution_pct": 2.8546
+    },
+    {
+      "name": "Safran SA",
+      "ticker": "SAF.PA",
+      "stock_return_pct": 89.79,
+      "weight": 2.8791,
+      "contribution_pct": 2.5851
+    },
+    {
+      "name": "Visa Inc. Class A",
+      "ticker": "V",
+      "stock_return_pct": 38.62,
+      "weight": 4.9675,
+      "contribution_pct": 1.9186
+    },
+    {
+      "name": "ASML Holding NV (ADR)",
+      "ticker": "ASML",
+      "stock_return_pct": 52.19,
+      "weight": 3.1983,
+      "contribution_pct": 1.6692
+    },
+    {
+      "name": "Charles Schwab Corp",
+      "ticker": "SCHW",
+      "stock_return_pct": 49.48,
+      "weight": 3.2112,
+      "contribution_pct": 1.5888
+    },
+    {
+      "name": "Mastercard Inc. Class A",
+      "ticker": "MA",
+      "stock_return_pct": 38.45,
+      "weight": 4.1155,
+      "contribution_pct": 1.5823
+    },
+    {
+      "name": "Roche Holding Ltd",
+      "ticker": "ROG.SW",
+      "stock_return_pct": 40.21,
+      "weight": 3.7573,
+      "contribution_pct": 1.5108
+    },
+    {
+      "name": "Booking Holdings",
+      "ticker": "BKNG",
+      "stock_return_pct": 58.48,
+      "weight": 2.1475,
+      "contribution_pct": 1.2558
+    },
+    {
+      "name": "Deutsche Boerse AG",
+      "ticker": "DB1.DE",
+      "stock_return_pct": 25.38,
+      "weight": 4.684,
+      "contribution_pct": 1.1889
+    },
+    {
+      "name": "AIA Group Limited",
+      "ticker": "1299.HK",
+      "stock_return_pct": 31.37,
+      "weight": 3.0566,
+      "contribution_pct": 0.9589
+    },
+    {
+      "name": "Allegion PLC",
+      "ticker": "ALLE",
+      "stock_return_pct": 32.6,
+      "weight": 2.1696,
+      "contribution_pct": 0.7074
+    },
+    {
+      "name": "Unilever PLC",
+      "ticker": "ULVR.L",
+      "stock_return_pct": 18.81,
+      "weight": 3.5519,
+      "contribution_pct": 0.6681
+    },
+    {
+      "name": "AutoZone Inc.",
+      "ticker": "AZO",
+      "stock_return_pct": 32.33,
+      "weight": 2.0104,
+      "contribution_pct": 0.6499
+    },
+    {
+      "name": "HDFC Bank Limited",
+      "ticker": "HDFCBANK.NS",
+      "stock_return_pct": 19.9,
+      "weight": 2.8691,
+      "contribution_pct": 0.5709
+    },
+    {
+      "name": "Autodesk Inc.",
+      "ticker": "ADSK",
+      "stock_return_pct": 27.94,
+      "weight": 1.8761,
+      "contribution_pct": 0.5242
+    },
+    {
+      "name": "Ferguson Enterprises",
+      "ticker": "FERG",
+      "stock_return_pct": 23.11,
+      "weight": 2.2002,
+      "contribution_pct": 0.5085
+    },
+    {
+      "name": "CTS Eventim AG",
+      "ticker": "EVD.DE",
+      "stock_return_pct": 29.05,
+      "weight": 1.6602,
+      "contribution_pct": 0.4822
+    },
+    {
+      "name": "Edwards Lifesciences",
+      "ticker": "EW",
+      "stock_return_pct": 14.07,
+      "weight": 2.5416,
+      "contribution_pct": 0.3575
+    },
+    {
+      "name": "Intuit Inc.",
+      "ticker": "INTU",
+      "stock_return_pct": 12.35,
+      "weight": 2.6807,
+      "contribution_pct": 0.3311
+    },
+    {
+      "name": "Experian PLC",
+      "ticker": "EXPN.L",
+      "stock_return_pct": 9.22,
+      "weight": 2.8463,
+      "contribution_pct": 0.2625
+    },
+    {
+      "name": "Atlas Copco AB Class B",
+      "ticker": "ATCO-B.ST",
+      "stock_return_pct": 5.33,
+      "weight": 2.4856,
+      "contribution_pct": 0.1326
+    },
+    {
+      "name": "Rentokil Initial plc",
+      "ticker": "RTO.L",
+      "stock_return_pct": 3.1,
+      "weight": 2.2912,
+      "contribution_pct": 0.071
+    },
+    {
+      "name": "B3 SA - Brasil Bolsa Balcao",
+      "ticker": "B3SA3.SA",
+      "stock_return_pct": 2.95,
+      "weight": 2.227,
+      "contribution_pct": 0.0656
+    },
+    {
+      "name": "Equifax Inc.",
+      "ticker": "EFX",
+      "stock_return_pct": -6.68,
+      "weight": 0.9701,
+      "contribution_pct": -0.0648
+    },
+    {
+      "name": "London Stock Exchange Group",
+      "ticker": "LSEG.L",
+      "stock_return_pct": -1.92,
+      "weight": 4.9717,
+      "contribution_pct": -0.0956
+    },
+    {
+      "name": "PT Bank Central Asia Tbk",
+      "ticker": "BBCA.JK",
+      "stock_return_pct": -8.6,
+      "weight": 2.0263,
+      "contribution_pct": -0.1743
+    },
+    {
+      "name": "Workday Inc. Class A",
+      "ticker": "WDAY",
+      "stock_return_pct": -19.14,
+      "weight": 2.0526,
+      "contribution_pct": -0.3929
+    },
+    {
+      "name": "Zoetis Inc. Class A",
+      "ticker": "ZTS",
+      "stock_return_pct": -34.19,
+      "weight": 2.5142,
+      "contribution_pct": -0.8597
+    }
+  ],
+  "cumulative_returns": [
+    {
+      "date": "2024-01-02",
+      "cumulative_return": 0.0,
+      "benchmark_return": 0.0
+    },
+    {
+      "date": "2024-01-03",
+      "cumulative_return": -1.19,
+      "benchmark_return": -0.8
+    },
+    {
+      "date": "2024-01-04",
+      "cumulative_return": -1.22,
+      "benchmark_return": -0.92
+    },
+    {
+      "date": "2024-01-05",
+      "cumulative_return": -1.21,
+      "benchmark_return": -0.8
+    },
+    {
+      "date": "2024-01-08",
+      "cumulative_return": -0.11,
+      "benchmark_return": 0.52
+    },
+    {
+      "date": "2024-01-09",
+      "cumulative_return": -0.03,
+      "benchmark_return": 0.11
+    },
+    {
+      "date": "2024-01-10",
+      "cumulative_return": 0.32,
+      "benchmark_return": 0.7
+    },
+    {
+      "date": "2024-01-11",
+      "cumulative_return": 0.18,
+      "benchmark_return": 0.69
+    },
+    {
+      "date": "2024-01-12",
+      "cumulative_return": 0.8,
+      "benchmark_return": 0.77
+    },
+    {
+      "date": "2024-01-15",
+      "cumulative_return": 0.79,
+      "benchmark_return": 0.77
+    },
+    {
+      "date": "2024-01-16",
+      "cumulative_return": 0.63,
+      "benchmark_return": 0.08
+    },
+    {
+      "date": "2024-01-17",
+      "cumulative_return": -0.29,
+      "benchmark_return": -0.58
+    },
+    {
+      "date": "2024-01-18",
+      "cumulative_return": 0.63,
+      "benchmark_return": 0.26
+    },
+    {
+      "date": "2024-01-19",
+      "cumulative_return": 1.38,
+      "benchmark_return": 1.3
+    },
+    {
+      "date": "2024-01-22",
+      "cumulative_return": 1.67,
+      "benchmark_return": 1.54
+    },
+    {
+      "date": "2024-01-23",
+      "cumulative_return": 1.66,
+      "benchmark_return": 1.67
+    },
+    {
+      "date": "2024-01-24",
+      "cumulative_return": 2.16,
+      "benchmark_return": 1.9
+    },
+    {
+      "date": "2024-01-25",
+      "cumulative_return": 2.46,
+      "benchmark_return": 2.3
+    },
+    {
+      "date": "2024-01-26",
+      "cumulative_return": 2.62,
+      "benchmark_return": 2.4
+    },
+    {
+      "date": "2024-01-29",
+      "cumulative_return": 3.34,
+      "benchmark_return": 3.18
+    },
+    {
+      "date": "2024-01-30",
+      "cumulative_return": 3.35,
+      "benchmark_return": 3.09
+    },
+    {
+      "date": "2024-01-31",
+      "cumulative_return": 2.12,
+      "benchmark_return": 1.74
+    },
+    {
+      "date": "2024-02-01",
+      "cumulative_return": 2.88,
+      "benchmark_return": 2.91
+    },
+    {
+      "date": "2024-02-02",
+      "cumulative_return": 3.38,
+      "benchmark_return": 3.44
+    },
+    {
+      "date": "2024-02-05",
+      "cumulative_return": 3.12,
+      "benchmark_return": 2.98
+    },
+    {
+      "date": "2024-02-06",
+      "cumulative_return": 3.7,
+      "benchmark_return": 3.38
+    },
+    {
+      "date": "2024-02-07",
+      "cumulative_return": 4.47,
+      "benchmark_return": 3.97
+    },
+    {
+      "date": "2024-02-08",
+      "cumulative_return": 4.93,
+      "benchmark_return": 4.03
+    },
+    {
+      "date": "2024-02-09",
+      "cumulative_return": 5.37,
+      "benchmark_return": 4.54
+    },
+    {
+      "date": "2024-02-12",
+      "cumulative_return": 5.28,
+      "benchmark_return": 4.62
+    },
+    {
+      "date": "2024-02-13",
+      "cumulative_return": 3.99,
+      "benchmark_return": 3.05
+    },
+    {
+      "date": "2024-02-14",
+      "cumulative_return": 4.78,
+      "benchmark_return": 4.15
+    },
+    {
+      "date": "2024-02-15",
+      "cumulative_return": 5.42,
+      "benchmark_return": 5.03
+    },
+    {
+      "date": "2024-02-16",
+      "cumulative_return": 5.52,
+      "benchmark_return": 4.65
+    },
+    {
+      "date": "2024-02-19",
+      "cumulative_return": 5.5,
+      "benchmark_return": 4.65
+    },
+    {
+      "date": "2024-02-20",
+      "cumulative_return": 5.18,
+      "benchmark_return": 4.32
+    },
+    {
+      "date": "2024-02-21",
+      "cumulative_return": 5.23,
+      "benchmark_return": 4.39
+    },
+    {
+      "date": "2024-02-22",
+      "cumulative_return": 6.8,
+      "benchmark_return": 6.27
+    },
+    {
+      "date": "2024-02-23",
+      "cumulative_return": 6.65,
+      "benchmark_return": 6.38
+    },
+    {
+      "date": "2024-02-26",
+      "cumulative_return": 6.41,
+      "benchmark_return": 5.97
+    },
+    {
+      "date": "2024-02-27",
+      "cumulative_return": 6.53,
+      "benchmark_return": 6.25
+    },
+    {
+      "date": "2024-02-28",
+      "cumulative_return": 6.39,
+      "benchmark_return": 5.91
+    },
+    {
+      "date": "2024-02-29",
+      "cumulative_return": 6.78,
+      "benchmark_return": 6.35
+    },
+    {
+      "date": "2024-03-01",
+      "cumulative_return": 7.08,
+      "benchmark_return": 7.3
+    },
+    {
+      "date": "2024-03-04",
+      "cumulative_return": 6.94,
+      "benchmark_return": 7.17
+    },
+    {
+      "date": "2024-03-05",
+      "cumulative_return": 5.65,
+      "benchmark_return": 6.34
+    },
+    {
+      "date": "2024-03-06",
+      "cumulative_return": 6.4,
+      "benchmark_return": 7.13
+    },
+    {
+      "date": "2024-03-07",
+      "cumulative_return": 7.95,
+      "benchmark_return": 8.29
+    },
+    {
+      "date": "2024-03-08",
+      "cumulative_return": 7.55,
+      "benchmark_return": 7.71
+    },
+    {
+      "date": "2024-03-11",
+      "cumulative_return": 7.4,
+      "benchmark_return": 7.4
+    },
+    {
+      "date": "2024-03-12",
+      "cumulative_return": 8.78,
+      "benchmark_return": 8.53
+    },
+    {
+      "date": "2024-03-13",
+      "cumulative_return": 8.49,
+      "benchmark_return": 8.43
+    },
+    {
+      "date": "2024-03-14",
+      "cumulative_return": 8.64,
+      "benchmark_return": 7.95
+    },
+    {
+      "date": "2024-03-15",
+      "cumulative_return": 7.64,
+      "benchmark_return": 7.45
+    },
+    {
+      "date": "2024-03-18",
+      "cumulative_return": 7.96,
+      "benchmark_return": 7.78
+    },
+    {
+      "date": "2024-03-19",
+      "cumulative_return": 8.64,
+      "benchmark_return": 8.31
+    },
+    {
+      "date": "2024-03-20",
+      "cumulative_return": 9.22,
+      "benchmark_return": 9.32
+    },
+    {
+      "date": "2024-03-21",
+      "cumulative_return": 10.06,
+      "benchmark_return": 9.67
+    },
+    {
+      "date": "2024-03-22",
+      "cumulative_return": 9.78,
+      "benchmark_return": 9.47
+    },
+    {
+      "date": "2024-03-25",
+      "cumulative_return": 9.12,
+      "benchmark_return": 9.17
+    },
+    {
+      "date": "2024-03-26",
+      "cumulative_return": 9.24,
+      "benchmark_return": 9.02
+    },
+    {
+      "date": "2024-03-27",
+      "cumulative_return": 9.49,
+      "benchmark_return": 9.86
+    },
+    {
+      "date": "2024-03-28",
+      "cumulative_return": 9.43,
+      "benchmark_return": 9.86
+    },
+    {
+      "date": "2024-04-01",
+      "cumulative_return": 9.59,
+      "benchmark_return": 9.54
+    },
+    {
+      "date": "2024-04-02",
+      "cumulative_return": 8.8,
+      "benchmark_return": 8.79
+    },
+    {
+      "date": "2024-04-03",
+      "cumulative_return": 8.7,
+      "benchmark_return": 9.11
+    },
+    {
+      "date": "2024-04-04",
+      "cumulative_return": 8.31,
+      "benchmark_return": 7.88
+    },
+    {
+      "date": "2024-04-05",
+      "cumulative_return": 9.17,
+      "benchmark_return": 8.83
+    },
+    {
+      "date": "2024-04-08",
+      "cumulative_return": 9.35,
+      "benchmark_return": 8.95
+    },
+    {
+      "date": "2024-04-09",
+      "cumulative_return": 9.36,
+      "benchmark_return": 9.04
+    },
+    {
+      "date": "2024-04-10",
+      "cumulative_return": 8.68,
+      "benchmark_return": 7.83
+    },
+    {
+      "date": "2024-04-11",
+      "cumulative_return": 9.07,
+      "benchmark_return": 8.57
+    },
+    {
+      "date": "2024-04-12",
+      "cumulative_return": 7.68,
+      "benchmark_return": 6.88
+    },
+    {
+      "date": "2024-04-15",
+      "cumulative_return": 6.74,
+      "benchmark_return": 5.79
+    },
+    {
+      "date": "2024-04-16",
+      "cumulative_return": 6.35,
+      "benchmark_return": 5.36
+    },
+    {
+      "date": "2024-04-17",
+      "cumulative_return": 5.83,
+      "benchmark_return": 5.01
+    },
+    {
+      "date": "2024-04-18",
+      "cumulative_return": 4.92,
+      "benchmark_return": 4.7
+    },
+    {
+      "date": "2024-04-19",
+      "cumulative_return": 4.25,
+      "benchmark_return": 4.09
+    },
+    {
+      "date": "2024-04-22",
+      "cumulative_return": 5.01,
+      "benchmark_return": 5.0
+    },
+    {
+      "date": "2024-04-23",
+      "cumulative_return": 6.44,
+      "benchmark_return": 6.18
+    },
+    {
+      "date": "2024-04-24",
+      "cumulative_return": 6.3,
+      "benchmark_return": 6.1
+    },
+    {
+      "date": "2024-04-25",
+      "cumulative_return": 6.13,
+      "benchmark_return": 5.72
+    },
+    {
+      "date": "2024-04-26",
+      "cumulative_return": 7.66,
+      "benchmark_return": 6.74
+    },
+    {
+      "date": "2024-04-29",
+      "cumulative_return": 7.41,
+      "benchmark_return": 7.07
+    },
+    {
+      "date": "2024-04-30",
+      "cumulative_return": 6.08,
+      "benchmark_return": 5.5
+    },
+    {
+      "date": "2024-05-01",
+      "cumulative_return": 5.81,
+      "benchmark_return": 5.07
+    },
+    {
+      "date": "2024-05-02",
+      "cumulative_return": 6.67,
+      "benchmark_return": 6.19
+    },
+    {
+      "date": "2024-05-03",
+      "cumulative_return": 8.23,
+      "benchmark_return": 7.48
+    },
+    {
+      "date": "2024-05-06",
+      "cumulative_return": 8.96,
+      "benchmark_return": 8.54
+    },
+    {
+      "date": "2024-05-07",
+      "cumulative_return": 9.5,
+      "benchmark_return": 8.65
+    },
+    {
+      "date": "2024-05-08",
+      "cumulative_return": 9.39,
+      "benchmark_return": 8.64
+    },
+    {
+      "date": "2024-05-09",
+      "cumulative_return": 9.68,
+      "benchmark_return": 9.27
+    },
+    {
+      "date": "2024-05-10",
+      "cumulative_return": 10.13,
+      "benchmark_return": 9.45
+    },
+    {
+      "date": "2024-05-13",
+      "cumulative_return": 9.6,
+      "benchmark_return": 9.39
+    },
+    {
+      "date": "2024-05-14",
+      "cumulative_return": 9.86,
+      "benchmark_return": 10.03
+    },
+    {
+      "date": "2024-05-15",
+      "cumulative_return": 11.54,
+      "benchmark_return": 11.29
+    },
+    {
+      "date": "2024-05-16",
+      "cumulative_return": 11.36,
+      "benchmark_return": 11.02
+    },
+    {
+      "date": "2024-05-17",
+      "cumulative_return": 11.72,
+      "benchmark_return": 11.23
+    },
+    {
+      "date": "2024-05-20",
+      "cumulative_return": 12.08,
+      "benchmark_return": 11.27
+    },
+    {
+      "date": "2024-05-21",
+      "cumulative_return": 11.72,
+      "benchmark_return": 11.45
+    },
+    {
+      "date": "2024-05-22",
+      "cumulative_return": 11.41,
+      "benchmark_return": 10.92
+    },
+    {
+      "date": "2024-05-23",
+      "cumulative_return": 11.12,
+      "benchmark_return": 10.15
+    },
+    {
+      "date": "2024-05-24",
+      "cumulative_return": 10.72,
+      "benchmark_return": 10.92
+    },
+    {
+      "date": "2024-05-27",
+      "cumulative_return": 10.81,
+      "benchmark_return": 10.92
+    },
+    {
+      "date": "2024-05-28",
+      "cumulative_return": 10.18,
+      "benchmark_return": 10.94
+    },
+    {
+      "date": "2024-05-29",
+      "cumulative_return": 9.03,
+      "benchmark_return": 9.79
+    },
+    {
+      "date": "2024-05-30",
+      "cumulative_return": 8.53,
+      "benchmark_return": 9.64
+    },
+    {
+      "date": "2024-05-31",
+      "cumulative_return": 9.13,
+      "benchmark_return": 10.46
+    },
+    {
+      "date": "2024-06-03",
+      "cumulative_return": 9.25,
+      "benchmark_return": 10.73
+    },
+    {
+      "date": "2024-06-04",
+      "cumulative_return": 9.23,
+      "benchmark_return": 10.7
+    },
+    {
+      "date": "2024-06-05",
+      "cumulative_return": 11.04,
+      "benchmark_return": 11.86
+    },
+    {
+      "date": "2024-06-06",
+      "cumulative_return": 11.33,
+      "benchmark_return": 11.93
+    },
+    {
+      "date": "2024-06-07",
+      "cumulative_return": 11.14,
+      "benchmark_return": 11.46
+    },
+    {
+      "date": "2024-06-10",
+      "cumulative_return": 10.89,
+      "benchmark_return": 11.71
+    },
+    {
+      "date": "2024-06-11",
+      "cumulative_return": 10.79,
+      "benchmark_return": 11.56
+    },
+    {
+      "date": "2024-06-12",
+      "cumulative_return": 12.26,
+      "benchmark_return": 12.6
+    },
+    {
+      "date": "2024-06-13",
+      "cumulative_return": 11.42,
+      "benchmark_return": 12.35
+    },
+    {
+      "date": "2024-06-14",
+      "cumulative_return": 11.29,
+      "benchmark_return": 12.03
+    },
+    {
+      "date": "2024-06-17",
+      "cumulative_return": 12.26,
+      "benchmark_return": 12.71
+    },
+    {
+      "date": "2024-06-18",
+      "cumulative_return": 12.67,
+      "benchmark_return": 13.08
+    },
+    {
+      "date": "2024-06-19",
+      "cumulative_return": 12.8,
+      "benchmark_return": 13.08
+    },
+    {
+      "date": "2024-06-20",
+      "cumulative_return": 13.09,
+      "benchmark_return": 12.9
+    },
+    {
+      "date": "2024-06-21",
+      "cumulative_return": 13.54,
+      "benchmark_return": 12.52
+    },
+    {
+      "date": "2024-06-24",
+      "cumulative_return": 13.49,
+      "benchmark_return": 12.55
+    },
+    {
+      "date": "2024-06-25",
+      "cumulative_return": 13.4,
+      "benchmark_return": 12.94
+    },
+    {
+      "date": "2024-06-26",
+      "cumulative_return": 13.13,
+      "benchmark_return": 12.88
+    },
+    {
+      "date": "2024-06-27",
+      "cumulative_return": 13.48,
+      "benchmark_return": 12.91
+    },
+    {
+      "date": "2024-06-28",
+      "cumulative_return": 12.88,
+      "benchmark_return": 12.72
+    },
+    {
+      "date": "2024-07-01",
+      "cumulative_return": 12.77,
+      "benchmark_return": 12.97
+    },
+    {
+      "date": "2024-07-02",
+      "cumulative_return": 13.35,
+      "benchmark_return": 13.55
+    },
+    {
+      "date": "2024-07-03",
+      "cumulative_return": 13.97,
+      "benchmark_return": 14.33
+    },
+    {
+      "date": "2024-07-04",
+      "cumulative_return": 13.81,
+      "benchmark_return": 14.33
+    },
+    {
+      "date": "2024-07-05",
+      "cumulative_return": 13.88,
+      "benchmark_return": 15.02
+    },
+    {
+      "date": "2024-07-08",
+      "cumulative_return": 13.81,
+      "benchmark_return": 14.9
+    },
+    {
+      "date": "2024-07-09",
+      "cumulative_return": 13.33,
+      "benchmark_return": 14.97
+    },
+    {
+      "date": "2024-07-10",
+      "cumulative_return": 14.02,
+      "benchmark_return": 16.18
+    },
+    {
+      "date": "2024-07-11",
+      "cumulative_return": 14.13,
+      "benchmark_return": 15.61
+    },
+    {
+      "date": "2024-07-12",
+      "cumulative_return": 15.23,
+      "benchmark_return": 16.47
+    },
+    {
+      "date": "2024-07-15",
+      "cumulative_return": 15.23,
+      "benchmark_return": 16.48
+    },
+    {
+      "date": "2024-07-16",
+      "cumulative_return": 14.94,
+      "benchmark_return": 17.16
+    },
+    {
+      "date": "2024-07-17",
+      "cumulative_return": 13.52,
+      "benchmark_return": 15.86
+    },
+    {
+      "date": "2024-07-18",
+      "cumulative_return": 12.76,
+      "benchmark_return": 14.82
+    },
+    {
+      "date": "2024-07-19",
+      "cumulative_return": 11.96,
+      "benchmark_return": 14.01
+    },
+    {
+      "date": "2024-07-22",
+      "cumulative_return": 13.62,
+      "benchmark_return": 15.23
+    },
+    {
+      "date": "2024-07-23",
+      "cumulative_return": 13.45,
+      "benchmark_return": 14.86
+    },
+    {
+      "date": "2024-07-24",
+      "cumulative_return": 10.92,
+      "benchmark_return": 12.52
+    },
+    {
+      "date": "2024-07-25",
+      "cumulative_return": 10.12,
+      "benchmark_return": 11.96
+    },
+    {
+      "date": "2024-07-26",
+      "cumulative_return": 11.7,
+      "benchmark_return": 13.21
+    },
+    {
+      "date": "2024-07-29",
+      "cumulative_return": 11.73,
+      "benchmark_return": 13.17
+    },
+    {
+      "date": "2024-07-30",
+      "cumulative_return": 11.86,
+      "benchmark_return": 12.85
+    },
+    {
+      "date": "2024-07-31",
+      "cumulative_return": 12.98,
+      "benchmark_return": 14.62
+    },
+    {
+      "date": "2024-08-01",
+      "cumulative_return": 11.86,
+      "benchmark_return": 12.58
+    },
+    {
+      "date": "2024-08-02",
+      "cumulative_return": 9.6,
+      "benchmark_return": 10.53
+    },
+    {
+      "date": "2024-08-05",
+      "cumulative_return": 7.19,
+      "benchmark_return": 7.52
+    },
+    {
+      "date": "2024-08-06",
+      "cumulative_return": 8.01,
+      "benchmark_return": 8.34
+    },
+    {
+      "date": "2024-08-07",
+      "cumulative_return": 8.52,
+      "benchmark_return": 7.9
+    },
+    {
+      "date": "2024-08-08",
+      "cumulative_return": 9.95,
+      "benchmark_return": 10.19
+    },
+    {
+      "date": "2024-08-09",
+      "cumulative_return": 10.48,
+      "benchmark_return": 10.84
+    },
+    {
+      "date": "2024-08-12",
+      "cumulative_return": 10.52,
+      "benchmark_return": 10.74
+    },
+    {
+      "date": "2024-08-13",
+      "cumulative_return": 11.87,
+      "benchmark_return": 12.67
+    },
+    {
+      "date": "2024-08-14",
+      "cumulative_return": 12.17,
+      "benchmark_return": 13.01
+    },
+    {
+      "date": "2024-08-15",
+      "cumulative_return": 13.52,
+      "benchmark_return": 14.71
+    },
+    {
+      "date": "2024-08-16",
+      "cumulative_return": 13.65,
+      "benchmark_return": 15.18
+    },
+    {
+      "date": "2024-08-19",
+      "cumulative_return": 14.26,
+      "benchmark_return": 16.34
+    },
+    {
+      "date": "2024-08-20",
+      "cumulative_return": 14.31,
+      "benchmark_return": 16.17
+    },
+    {
+      "date": "2024-08-21",
+      "cumulative_return": 14.57,
+      "benchmark_return": 16.83
+    },
+    {
+      "date": "2024-08-22",
+      "cumulative_return": 14.27,
+      "benchmark_return": 15.78
+    },
+    {
+      "date": "2024-08-23",
+      "cumulative_return": 14.75,
+      "benchmark_return": 17.54
+    },
+    {
+      "date": "2024-08-26",
+      "cumulative_return": 14.66,
+      "benchmark_return": 17.21
+    },
+    {
+      "date": "2024-08-27",
+      "cumulative_return": 14.88,
+      "benchmark_return": 17.38
+    },
+    {
+      "date": "2024-08-28",
+      "cumulative_return": 14.65,
+      "benchmark_return": 16.82
+    },
+    {
+      "date": "2024-08-29",
+      "cumulative_return": 15.36,
+      "benchmark_return": 16.9
+    },
+    {
+      "date": "2024-08-30",
+      "cumulative_return": 15.88,
+      "benchmark_return": 17.83
+    },
+    {
+      "date": "2024-09-02",
+      "cumulative_return": 15.67,
+      "benchmark_return": 17.83
+    },
+    {
+      "date": "2024-09-03",
+      "cumulative_return": 14.03,
+      "benchmark_return": 15.41
+    },
+    {
+      "date": "2024-09-04",
+      "cumulative_return": 13.79,
+      "benchmark_return": 15.19
+    },
+    {
+      "date": "2024-09-05",
+      "cumulative_return": 13.18,
+      "benchmark_return": 14.78
+    },
+    {
+      "date": "2024-09-06",
+      "cumulative_return": 12.07,
+      "benchmark_return": 12.92
+    },
+    {
+      "date": "2024-09-09",
+      "cumulative_return": 13.01,
+      "benchmark_return": 14.13
+    },
+    {
+      "date": "2024-09-10",
+      "cumulative_return": 13.53,
+      "benchmark_return": 14.44
+    },
+    {
+      "date": "2024-09-11",
+      "cumulative_return": 13.61,
+      "benchmark_return": 15.56
+    },
+    {
+      "date": "2024-09-12",
+      "cumulative_return": 14.34,
+      "benchmark_return": 16.44
+    },
+    {
+      "date": "2024-09-13",
+      "cumulative_return": 15.31,
+      "benchmark_return": 17.04
+    },
+    {
+      "date": "2024-09-16",
+      "cumulative_return": 15.55,
+      "benchmark_return": 17.44
+    },
+    {
+      "date": "2024-09-17",
+      "cumulative_return": 15.84,
+      "benchmark_return": 17.25
+    },
+    {
+      "date": "2024-09-18",
+      "cumulative_return": 15.28,
+      "benchmark_return": 16.94
+    },
+    {
+      "date": "2024-09-19",
+      "cumulative_return": 16.65,
+      "benchmark_return": 18.96
+    },
+    {
+      "date": "2024-09-20",
+      "cumulative_return": 16.24,
+      "benchmark_return": 18.54
+    },
+    {
+      "date": "2024-09-23",
+      "cumulative_return": 16.63,
+      "benchmark_return": 18.9
+    },
+    {
+      "date": "2024-09-24",
+      "cumulative_return": 16.43,
+      "benchmark_return": 19.28
+    },
+    {
+      "date": "2024-09-25",
+      "cumulative_return": 16.62,
+      "benchmark_return": 18.98
+    },
+    {
+      "date": "2024-09-26",
+      "cumulative_return": 17.39,
+      "benchmark_return": 20.07
+    },
+    {
+      "date": "2024-09-27",
+      "cumulative_return": 17.51,
+      "benchmark_return": 19.7
+    },
+    {
+      "date": "2024-09-30",
+      "cumulative_return": 17.32,
+      "benchmark_return": 19.92
+    },
+    {
+      "date": "2024-10-01",
+      "cumulative_return": 16.74,
+      "benchmark_return": 18.93
+    },
+    {
+      "date": "2024-10-02",
+      "cumulative_return": 16.83,
+      "benchmark_return": 18.94
+    },
+    {
+      "date": "2024-10-03",
+      "cumulative_return": 16.42,
+      "benchmark_return": 18.49
+    },
+    {
+      "date": "2024-10-04",
+      "cumulative_return": 16.59,
+      "benchmark_return": 19.48
+    },
+    {
+      "date": "2024-10-07",
+      "cumulative_return": 15.4,
+      "benchmark_return": 18.46
+    },
+    {
+      "date": "2024-10-08",
+      "cumulative_return": 16.15,
+      "benchmark_return": 19.28
+    },
+    {
+      "date": "2024-10-09",
+      "cumulative_return": 16.76,
+      "benchmark_return": 19.91
+    },
+    {
+      "date": "2024-10-10",
+      "cumulative_return": 16.58,
+      "benchmark_return": 19.71
+    },
+    {
+      "date": "2024-10-11",
+      "cumulative_return": 17.19,
+      "benchmark_return": 20.4
+    },
+    {
+      "date": "2024-10-14",
+      "cumulative_return": 18.3,
+      "benchmark_return": 21.17
+    },
+    {
+      "date": "2024-10-15",
+      "cumulative_return": 17.53,
+      "benchmark_return": 19.97
+    },
+    {
+      "date": "2024-10-16",
+      "cumulative_return": 17.47,
+      "benchmark_return": 20.45
+    },
+    {
+      "date": "2024-10-17",
+      "cumulative_return": 18.51,
+      "benchmark_return": 20.52
+    },
+    {
+      "date": "2024-10-18",
+      "cumulative_return": 18.84,
+      "benchmark_return": 21.06
+    },
+    {
+      "date": "2024-10-21",
+      "cumulative_return": 18.5,
+      "benchmark_return": 20.53
+    },
+    {
+      "date": "2024-10-22",
+      "cumulative_return": 17.87,
+      "benchmark_return": 20.34
+    },
+    {
+      "date": "2024-10-23",
+      "cumulative_return": 17.62,
+      "benchmark_return": 19.14
+    },
+    {
+      "date": "2024-10-24",
+      "cumulative_return": 17.77,
+      "benchmark_return": 19.53
+    },
+    {
+      "date": "2024-10-25",
+      "cumulative_return": 17.9,
+      "benchmark_return": 19.34
+    },
+    {
+      "date": "2024-10-28",
+      "cumulative_return": 17.92,
+      "benchmark_return": 19.87
+    },
+    {
+      "date": "2024-10-29",
+      "cumulative_return": 18.08,
+      "benchmark_return": 19.87
+    },
+    {
+      "date": "2024-10-30",
+      "cumulative_return": 17.74,
+      "benchmark_return": 19.43
+    },
+    {
+      "date": "2024-10-31",
+      "cumulative_return": 16.17,
+      "benchmark_return": 17.49
+    },
+    {
+      "date": "2024-11-01",
+      "cumulative_return": 17.22,
+      "benchmark_return": 17.96
+    },
+    {
+      "date": "2024-11-04",
+      "cumulative_return": 16.91,
+      "benchmark_return": 17.8
+    },
+    {
+      "date": "2024-11-05",
+      "cumulative_return": 17.92,
+      "benchmark_return": 19.19
+    },
+    {
+      "date": "2024-11-06",
+      "cumulative_return": 19.11,
+      "benchmark_return": 21.03
+    },
+    {
+      "date": "2024-11-07",
+      "cumulative_return": 19.56,
+      "benchmark_return": 22.21
+    },
+    {
+      "date": "2024-11-08",
+      "cumulative_return": 19.43,
+      "benchmark_return": 22.19
+    },
+    {
+      "date": "2024-11-11",
+      "cumulative_return": 20.29,
+      "benchmark_return": 22.47
+    },
+    {
+      "date": "2024-11-12",
+      "cumulative_return": 19.38,
+      "benchmark_return": 21.65
+    },
+    {
+      "date": "2024-11-13",
+      "cumulative_return": 19.16,
+      "benchmark_return": 21.49
+    },
+    {
+      "date": "2024-11-14",
+      "cumulative_return": 18.96,
+      "benchmark_return": 20.99
+    },
+    {
+      "date": "2024-11-15",
+      "cumulative_return": 17.71,
+      "benchmark_return": 19.73
+    },
+    {
+      "date": "2024-11-18",
+      "cumulative_return": 18.17,
+      "benchmark_return": 20.29
+    },
+    {
+      "date": "2024-11-19",
+      "cumulative_return": 18.08,
+      "benchmark_return": 20.64
+    },
+    {
+      "date": "2024-11-20",
+      "cumulative_return": 17.78,
+      "benchmark_return": 20.57
+    },
+    {
+      "date": "2024-11-21",
+      "cumulative_return": 18.16,
+      "benchmark_return": 21.19
+    },
+    {
+      "date": "2024-11-22",
+      "cumulative_return": 18.72,
+      "benchmark_return": 21.72
+    },
+    {
+      "date": "2024-11-25",
+      "cumulative_return": 19.4,
+      "benchmark_return": 22.1
+    },
+    {
+      "date": "2024-11-26",
+      "cumulative_return": 19.5,
+      "benchmark_return": 22.32
+    },
+    {
+      "date": "2024-11-27",
+      "cumulative_return": 19.23,
+      "benchmark_return": 22.17
+    },
+    {
+      "date": "2024-11-28",
+      "cumulative_return": 18.98,
+      "benchmark_return": 22.17
+    },
+    {
+      "date": "2024-11-29",
+      "cumulative_return": 19.41,
+      "benchmark_return": 23.15
+    },
+    {
+      "date": "2024-12-02",
+      "cumulative_return": 20.18,
+      "benchmark_return": 23.47
+    },
+    {
+      "date": "2024-12-03",
+      "cumulative_return": 20.6,
+      "benchmark_return": 23.6
+    },
+    {
+      "date": "2024-12-04",
+      "cumulative_return": 21.47,
+      "benchmark_return": 24.31
+    },
+    {
+      "date": "2024-12-05",
+      "cumulative_return": 21.02,
+      "benchmark_return": 24.32
+    },
+    {
+      "date": "2024-12-06",
+      "cumulative_return": 21.44,
+      "benchmark_return": 24.54
+    },
+    {
+      "date": "2024-12-09",
+      "cumulative_return": 21.24,
+      "benchmark_return": 23.83
+    },
+    {
+      "date": "2024-12-10",
+      "cumulative_return": 21.11,
+      "benchmark_return": 23.3
+    },
+    {
+      "date": "2024-12-11",
+      "cumulative_return": 22.42,
+      "benchmark_return": 24.26
+    },
+    {
+      "date": "2024-12-12",
+      "cumulative_return": 21.92,
+      "benchmark_return": 23.46
+    },
+    {
+      "date": "2024-12-13",
+      "cumulative_return": 21.52,
+      "benchmark_return": 23.31
+    },
+    {
+      "date": "2024-12-16",
+      "cumulative_return": 21.97,
+      "benchmark_return": 23.58
+    },
+    {
+      "date": "2024-12-17",
+      "cumulative_return": 21.78,
+      "benchmark_return": 23.12
+    },
+    {
+      "date": "2024-12-18",
+      "cumulative_return": 19.29,
+      "benchmark_return": 19.57
+    },
+    {
+      "date": "2024-12-19",
+      "cumulative_return": 18.68,
+      "benchmark_return": 19.4
+    },
+    {
+      "date": "2024-12-20",
+      "cumulative_return": 19.33,
+      "benchmark_return": 20.32
+    },
+    {
+      "date": "2024-12-23",
+      "cumulative_return": 19.6,
+      "benchmark_return": 21.12
+    },
+    {
+      "date": "2024-12-24",
+      "cumulative_return": 20.3,
+      "benchmark_return": 22.17
+    },
+    {
+      "date": "2024-12-26",
+      "cumulative_return": 20.19,
+      "benchmark_return": 22.4
+    },
+    {
+      "date": "2024-12-27",
+      "cumulative_return": 19.69,
+      "benchmark_return": 21.27
+    },
+    {
+      "date": "2024-12-30",
+      "cumulative_return": 18.63,
+      "benchmark_return": 20.14
+    },
+    {
+      "date": "2024-12-31",
+      "cumulative_return": 18.42,
+      "benchmark_return": 19.66
+    },
+    {
+      "date": "2025-01-01",
+      "cumulative_return": 18.44,
+      "benchmark_return": 19.66
+    },
+    {
+      "date": "2025-01-02",
+      "cumulative_return": 18.61,
+      "benchmark_return": 19.43
+    },
+    {
+      "date": "2025-01-03",
+      "cumulative_return": 18.99,
+      "benchmark_return": 20.8
+    },
+    {
+      "date": "2025-01-06",
+      "cumulative_return": 19.47,
+      "benchmark_return": 21.4
+    },
+    {
+      "date": "2025-01-07",
+      "cumulative_return": 18.82,
+      "benchmark_return": 20.36
+    },
+    {
+      "date": "2025-01-08",
+      "cumulative_return": 19.34,
+      "benchmark_return": 20.37
+    },
+    {
+      "date": "2025-01-09",
+      "cumulative_return": 19.74,
+      "benchmark_return": 20.37
+    },
+    {
+      "date": "2025-01-10",
+      "cumulative_return": 18.26,
+      "benchmark_return": 18.7
+    },
+    {
+      "date": "2025-01-13",
+      "cumulative_return": 17.68,
+      "benchmark_return": 18.68
+    },
+    {
+      "date": "2025-01-14",
+      "cumulative_return": 18.19,
+      "benchmark_return": 18.84
+    },
+    {
+      "date": "2025-01-15",
+      "cumulative_return": 19.74,
+      "benchmark_return": 20.9
+    },
+    {
+      "date": "2025-01-16",
+      "cumulative_return": 20.48,
+      "benchmark_return": 20.92
+    },
+    {
+      "date": "2025-01-17",
+      "cumulative_return": 21.16,
+      "benchmark_return": 21.89
+    },
+    {
+      "date": "2025-01-20",
+      "cumulative_return": 21.14,
+      "benchmark_return": 21.89
+    },
+    {
+      "date": "2025-01-21",
+      "cumulative_return": 22.24,
+      "benchmark_return": 23.33
+    },
+    {
+      "date": "2025-01-22",
+      "cumulative_return": 23.14,
+      "benchmark_return": 23.81
+    },
+    {
+      "date": "2025-01-23",
+      "cumulative_return": 23.58,
+      "benchmark_return": 24.56
+    },
+    {
+      "date": "2025-01-24",
+      "cumulative_return": 23.26,
+      "benchmark_return": 24.46
+    },
+    {
+      "date": "2025-01-27",
+      "cumulative_return": 22.63,
+      "benchmark_return": 23.11
+    },
+    {
+      "date": "2025-01-28",
+      "cumulative_return": 23.53,
+      "benchmark_return": 23.84
+    },
+    {
+      "date": "2025-01-29",
+      "cumulative_return": 23.56,
+      "benchmark_return": 23.44
+    },
+    {
+      "date": "2025-01-30",
+      "cumulative_return": 24.81,
+      "benchmark_return": 24.31
+    },
+    {
+      "date": "2025-01-31",
+      "cumulative_return": 24.8,
+      "benchmark_return": 23.63
+    },
+    {
+      "date": "2025-02-01",
+      "cumulative_return": 24.78,
+      "benchmark_return": 23.63
+    },
+    {
+      "date": "2025-02-03",
+      "cumulative_return": 24.02,
+      "benchmark_return": 22.64
+    },
+    {
+      "date": "2025-02-04",
+      "cumulative_return": 24.26,
+      "benchmark_return": 23.61
+    },
+    {
+      "date": "2025-02-05",
+      "cumulative_return": 24.67,
+      "benchmark_return": 24.31
+    },
+    {
+      "date": "2025-02-06",
+      "cumulative_return": 24.57,
+      "benchmark_return": 24.71
+    },
+    {
+      "date": "2025-02-07",
+      "cumulative_return": 23.6,
+      "benchmark_return": 23.58
+    },
+    {
+      "date": "2025-02-10",
+      "cumulative_return": 24.13,
+      "benchmark_return": 24.41
+    },
+    {
+      "date": "2025-02-11",
+      "cumulative_return": 24.14,
+      "benchmark_return": 24.64
+    },
+    {
+      "date": "2025-02-12",
+      "cumulative_return": 24.42,
+      "benchmark_return": 24.53
+    },
+    {
+      "date": "2025-02-13",
+      "cumulative_return": 24.85,
+      "benchmark_return": 25.85
+    },
+    {
+      "date": "2025-02-14",
+      "cumulative_return": 24.46,
+      "benchmark_return": 25.86
+    },
+    {
+      "date": "2025-02-17",
+      "cumulative_return": 24.64,
+      "benchmark_return": 25.86
+    },
+    {
+      "date": "2025-02-18",
+      "cumulative_return": 24.62,
+      "benchmark_return": 26.27
+    },
+    {
+      "date": "2025-02-19",
+      "cumulative_return": 24.47,
+      "benchmark_return": 26.22
+    },
+    {
+      "date": "2025-02-20",
+      "cumulative_return": 23.86,
+      "benchmark_return": 25.98
+    },
+    {
+      "date": "2025-02-21",
+      "cumulative_return": 22.86,
+      "benchmark_return": 24.11
+    },
+    {
+      "date": "2025-02-24",
+      "cumulative_return": 22.47,
+      "benchmark_return": 23.61
+    },
+    {
+      "date": "2025-02-25",
+      "cumulative_return": 21.95,
+      "benchmark_return": 23.44
+    },
+    {
+      "date": "2025-02-26",
+      "cumulative_return": 22.99,
+      "benchmark_return": 23.51
+    },
+    {
+      "date": "2025-02-27",
+      "cumulative_return": 22.04,
+      "benchmark_return": 21.63
+    },
+    {
+      "date": "2025-02-28",
+      "cumulative_return": 22.87,
+      "benchmark_return": 23.12
+    },
+    {
+      "date": "2025-03-03",
+      "cumulative_return": 22.15,
+      "benchmark_return": 21.81
+    },
+    {
+      "date": "2025-03-04",
+      "cumulative_return": 21.43,
+      "benchmark_return": 20.78
+    },
+    {
+      "date": "2025-03-05",
+      "cumulative_return": 22.9,
+      "benchmark_return": 22.54
+    },
+    {
+      "date": "2025-03-06",
+      "cumulative_return": 21.17,
+      "benchmark_return": 20.42
+    },
+    {
+      "date": "2025-03-07",
+      "cumulative_return": 21.19,
+      "benchmark_return": 21.31
+    },
+    {
+      "date": "2025-03-10",
+      "cumulative_return": 18.89,
+      "benchmark_return": 18.0
+    },
+    {
+      "date": "2025-03-11",
+      "cumulative_return": 17.75,
+      "benchmark_return": 17.3
+    },
+    {
+      "date": "2025-03-12",
+      "cumulative_return": 18.97,
+      "benchmark_return": 17.89
+    },
+    {
+      "date": "2025-03-13",
+      "cumulative_return": 17.92,
+      "benchmark_return": 16.38
+    },
+    {
+      "date": "2025-03-14",
+      "cumulative_return": 19.97,
+      "benchmark_return": 18.86
+    },
+    {
+      "date": "2025-03-17",
+      "cumulative_return": 20.86,
+      "benchmark_return": 19.94
+    },
+    {
+      "date": "2025-03-18",
+      "cumulative_return": 19.94,
+      "benchmark_return": 18.91
+    },
+    {
+      "date": "2025-03-19",
+      "cumulative_return": 21.08,
+      "benchmark_return": 19.99
+    },
+    {
+      "date": "2025-03-20",
+      "cumulative_return": 21.13,
+      "benchmark_return": 19.53
+    },
+    {
+      "date": "2025-03-21",
+      "cumulative_return": 20.83,
+      "benchmark_return": 19.45
+    },
+    {
+      "date": "2025-03-24",
+      "cumulative_return": 21.92,
+      "benchmark_return": 21.14
+    },
+    {
+      "date": "2025-03-25",
+      "cumulative_return": 22.31,
+      "benchmark_return": 21.41
+    },
+    {
+      "date": "2025-03-26",
+      "cumulative_return": 21.54,
+      "benchmark_return": 20.03
+    },
+    {
+      "date": "2025-03-27",
+      "cumulative_return": 21.67,
+      "benchmark_return": 19.72
+    },
+    {
+      "date": "2025-03-28",
+      "cumulative_return": 19.87,
+      "benchmark_return": 17.64
+    },
+    {
+      "date": "2025-03-31",
+      "cumulative_return": 19.67,
+      "benchmark_return": 17.87
+    },
+    {
+      "date": "2025-04-01",
+      "cumulative_return": 20.46,
+      "benchmark_return": 18.2
+    },
+    {
+      "date": "2025-04-02",
+      "cumulative_return": 20.85,
+      "benchmark_return": 18.99
+    },
+    {
+      "date": "2025-04-03",
+      "cumulative_return": 17.88,
+      "benchmark_return": 14.1
+    },
+    {
+      "date": "2025-04-04",
+      "cumulative_return": 12.24,
+      "benchmark_return": 7.15
+    },
+    {
+      "date": "2025-04-07",
+      "cumulative_return": 9.45,
+      "benchmark_return": 6.2
+    },
+    {
+      "date": "2025-04-08",
+      "cumulative_return": 9.56,
+      "benchmark_return": 4.88
+    },
+    {
+      "date": "2025-04-09",
+      "cumulative_return": 14.36,
+      "benchmark_return": 14.26
+    },
+    {
+      "date": "2025-04-10",
+      "cumulative_return": 14.12,
+      "benchmark_return": 10.89
+    },
+    {
+      "date": "2025-04-11",
+      "cumulative_return": 15.65,
+      "benchmark_return": 13.06
+    },
+    {
+      "date": "2025-04-14",
+      "cumulative_return": 16.81,
+      "benchmark_return": 14.09
+    },
+    {
+      "date": "2025-04-15",
+      "cumulative_return": 17.5,
+      "benchmark_return": 14.23
+    },
+    {
+      "date": "2025-04-16",
+      "cumulative_return": 15.89,
+      "benchmark_return": 12.38
+    },
+    {
+      "date": "2025-04-17",
+      "cumulative_return": 16.13,
+      "benchmark_return": 12.86
+    },
+    {
+      "date": "2025-04-21",
+      "cumulative_return": 14.54,
+      "benchmark_return": 10.79
+    },
+    {
+      "date": "2025-04-22",
+      "cumulative_return": 17.15,
+      "benchmark_return": 13.41
+    },
+    {
+      "date": "2025-04-23",
+      "cumulative_return": 18.66,
+      "benchmark_return": 14.83
+    },
+    {
+      "date": "2025-04-24",
+      "cumulative_return": 20.78,
+      "benchmark_return": 17.04
+    },
+    {
+      "date": "2025-04-25",
+      "cumulative_return": 21.37,
+      "benchmark_return": 17.77
+    },
+    {
+      "date": "2025-04-28",
+      "cumulative_return": 21.24,
+      "benchmark_return": 18.08
+    },
+    {
+      "date": "2025-04-29",
+      "cumulative_return": 21.63,
+      "benchmark_return": 18.64
+    },
+    {
+      "date": "2025-04-30",
+      "cumulative_return": 23.03,
+      "benchmark_return": 18.72
+    },
+    {
+      "date": "2025-05-01",
+      "cumulative_return": 23.92,
+      "benchmark_return": 19.1
+    },
+    {
+      "date": "2025-05-02",
+      "cumulative_return": 26.16,
+      "benchmark_return": 20.97
+    },
+    {
+      "date": "2025-05-05",
+      "cumulative_return": 26.23,
+      "benchmark_return": 20.53
+    },
+    {
+      "date": "2025-05-06",
+      "cumulative_return": 25.54,
+      "benchmark_return": 19.82
+    },
+    {
+      "date": "2025-05-07",
+      "cumulative_return": 25.6,
+      "benchmark_return": 20.07
+    },
+    {
+      "date": "2025-05-08",
+      "cumulative_return": 26.36,
+      "benchmark_return": 20.52
+    },
+    {
+      "date": "2025-05-09",
+      "cumulative_return": 26.18,
+      "benchmark_return": 20.64
+    },
+    {
+      "date": "2025-05-12",
+      "cumulative_return": 28.32,
+      "benchmark_return": 23.61
+    },
+    {
+      "date": "2025-05-13",
+      "cumulative_return": 28.67,
+      "benchmark_return": 24.37
+    },
+    {
+      "date": "2025-05-14",
+      "cumulative_return": 29.01,
+      "benchmark_return": 24.37
+    },
+    {
+      "date": "2025-05-15",
+      "cumulative_return": 30.25,
+      "benchmark_return": 25.05
+    },
+    {
+      "date": "2025-05-16",
+      "cumulative_return": 31.12,
+      "benchmark_return": 25.82
+    },
+    {
+      "date": "2025-05-19",
+      "cumulative_return": 31.66,
+      "benchmark_return": 26.15
+    },
+    {
+      "date": "2025-05-20",
+      "cumulative_return": 31.57,
+      "benchmark_return": 26.01
+    },
+    {
+      "date": "2025-05-21",
+      "cumulative_return": 30.6,
+      "benchmark_return": 24.36
+    },
+    {
+      "date": "2025-05-22",
+      "cumulative_return": 30.37,
+      "benchmark_return": 24.27
+    },
+    {
+      "date": "2025-05-23",
+      "cumulative_return": 29.77,
+      "benchmark_return": 23.86
+    },
+    {
+      "date": "2025-05-26",
+      "cumulative_return": 29.91,
+      "benchmark_return": 23.86
+    },
+    {
+      "date": "2025-05-27",
+      "cumulative_return": 31.53,
+      "benchmark_return": 26.07
+    },
+    {
+      "date": "2025-05-28",
+      "cumulative_return": 31.05,
+      "benchmark_return": 25.25
+    },
+    {
+      "date": "2025-05-29",
+      "cumulative_return": 31.21,
+      "benchmark_return": 25.7
+    },
+    {
+      "date": "2025-05-30",
+      "cumulative_return": 31.52,
+      "benchmark_return": 25.67
+    },
+    {
+      "date": "2025-06-02",
+      "cumulative_return": 31.42,
+      "benchmark_return": 26.55
+    },
+    {
+      "date": "2025-06-03",
+      "cumulative_return": 31.86,
+      "benchmark_return": 26.91
+    },
+    {
+      "date": "2025-06-04",
+      "cumulative_return": 32.34,
+      "benchmark_return": 27.06
+    },
+    {
+      "date": "2025-06-05",
+      "cumulative_return": 32.55,
+      "benchmark_return": 26.54
+    },
+    {
+      "date": "2025-06-06",
+      "cumulative_return": 33.38,
+      "benchmark_return": 27.62
+    },
+    {
+      "date": "2025-06-09",
+      "cumulative_return": 33.21,
+      "benchmark_return": 27.68
+    },
+    {
+      "date": "2025-06-10",
+      "cumulative_return": 33.51,
+      "benchmark_return": 28.16
+    },
+    {
+      "date": "2025-06-11",
+      "cumulative_return": 33.36,
+      "benchmark_return": 27.87
+    },
+    {
+      "date": "2025-06-12",
+      "cumulative_return": 33.13,
+      "benchmark_return": 28.48
+    },
+    {
+      "date": "2025-06-13",
+      "cumulative_return": 31.05,
+      "benchmark_return": 26.97
+    },
+    {
+      "date": "2025-06-16",
+      "cumulative_return": 32.18,
+      "benchmark_return": 28.07
+    },
+    {
+      "date": "2025-06-17",
+      "cumulative_return": 31.44,
+      "benchmark_return": 26.89
+    },
+    {
+      "date": "2025-06-18",
+      "cumulative_return": 30.38,
+      "benchmark_return": 26.92
+    },
+    {
+      "date": "2025-06-19",
+      "cumulative_return": 30.01,
+      "benchmark_return": 26.92
+    },
+    {
+      "date": "2025-06-20",
+      "cumulative_return": 29.92,
+      "benchmark_return": 26.41
+    },
+    {
+      "date": "2025-06-23",
+      "cumulative_return": 30.65,
+      "benchmark_return": 27.55
+    },
+    {
+      "date": "2025-06-24",
+      "cumulative_return": 32.07,
+      "benchmark_return": 29.04
+    },
+    {
+      "date": "2025-06-25",
+      "cumulative_return": 31.99,
+      "benchmark_return": 28.82
+    },
+    {
+      "date": "2025-06-26",
+      "cumulative_return": 32.53,
+      "benchmark_return": 30.04
+    },
+    {
+      "date": "2025-06-27",
+      "cumulative_return": 33.67,
+      "benchmark_return": 30.73
+    },
+    {
+      "date": "2025-06-30",
+      "cumulative_return": 34.05,
+      "benchmark_return": 31.34
+    },
+    {
+      "date": "2025-07-01",
+      "cumulative_return": 33.72,
+      "benchmark_return": 31.16
+    },
+    {
+      "date": "2025-07-02",
+      "cumulative_return": 33.85,
+      "benchmark_return": 31.72
+    },
+    {
+      "date": "2025-07-03",
+      "cumulative_return": 34.74,
+      "benchmark_return": 32.5
+    },
+    {
+      "date": "2025-07-04",
+      "cumulative_return": 34.52,
+      "benchmark_return": 32.5
+    },
+    {
+      "date": "2025-07-07",
+      "cumulative_return": 34.45,
+      "benchmark_return": 31.41
+    },
+    {
+      "date": "2025-07-08",
+      "cumulative_return": 33.99,
+      "benchmark_return": 31.48
+    },
+    {
+      "date": "2025-07-09",
+      "cumulative_return": 34.54,
+      "benchmark_return": 32.37
+    },
+    {
+      "date": "2025-07-10",
+      "cumulative_return": 34.39,
+      "benchmark_return": 32.62
+    },
+    {
+      "date": "2025-07-11",
+      "cumulative_return": 33.48,
+      "benchmark_return": 31.91
+    },
+    {
+      "date": "2025-07-14",
+      "cumulative_return": 34.0,
+      "benchmark_return": 32.18
+    },
+    {
+      "date": "2025-07-15",
+      "cumulative_return": 33.87,
+      "benchmark_return": 31.41
+    },
+    {
+      "date": "2025-07-16",
+      "cumulative_return": 33.5,
+      "benchmark_return": 31.82
+    },
+    {
+      "date": "2025-07-17",
+      "cumulative_return": 34.25,
+      "benchmark_return": 32.56
+    },
+    {
+      "date": "2025-07-18",
+      "cumulative_return": 34.13,
+      "benchmark_return": 32.45
+    },
+    {
+      "date": "2025-07-21",
+      "cumulative_return": 34.12,
+      "benchmark_return": 32.77
+    },
+    {
+      "date": "2025-07-22",
+      "cumulative_return": 33.88,
+      "benchmark_return": 33.0
+    },
+    {
+      "date": "2025-07-23",
+      "cumulative_return": 34.83,
+      "benchmark_return": 34.53
+    },
+    {
+      "date": "2025-07-24",
+      "cumulative_return": 35.41,
+      "benchmark_return": 34.42
+    },
+    {
+      "date": "2025-07-25",
+      "cumulative_return": 35.43,
+      "benchmark_return": 34.73
+    },
+    {
+      "date": "2025-07-28",
+      "cumulative_return": 35.1,
+      "benchmark_return": 34.15
+    },
+    {
+      "date": "2025-07-29",
+      "cumulative_return": 35.33,
+      "benchmark_return": 33.86
+    },
+    {
+      "date": "2025-07-30",
+      "cumulative_return": 35.37,
+      "benchmark_return": 33.48
+    },
+    {
+      "date": "2025-07-31",
+      "cumulative_return": 34.41,
+      "benchmark_return": 32.68
+    },
+    {
+      "date": "2025-08-01",
+      "cumulative_return": 33.05,
+      "benchmark_return": 31.02
+    },
+    {
+      "date": "2025-08-04",
+      "cumulative_return": 34.78,
+      "benchmark_return": 32.92
+    },
+    {
+      "date": "2025-08-05",
+      "cumulative_return": 34.03,
+      "benchmark_return": 32.48
+    },
+    {
+      "date": "2025-08-06",
+      "cumulative_return": 34.38,
+      "benchmark_return": 33.52
+    },
+    {
+      "date": "2025-08-07",
+      "cumulative_return": 34.36,
+      "benchmark_return": 33.65
+    },
+    {
+      "date": "2025-08-08",
+      "cumulative_return": 34.71,
+      "benchmark_return": 34.64
+    },
+    {
+      "date": "2025-08-11",
+      "cumulative_return": 34.23,
+      "benchmark_return": 34.23
+    },
+    {
+      "date": "2025-08-12",
+      "cumulative_return": 34.5,
+      "benchmark_return": 35.79
+    },
+    {
+      "date": "2025-08-13",
+      "cumulative_return": 34.79,
+      "benchmark_return": 36.3
+    },
+    {
+      "date": "2025-08-14",
+      "cumulative_return": 35.27,
+      "benchmark_return": 36.17
+    },
+    {
+      "date": "2025-08-15",
+      "cumulative_return": 35.04,
+      "benchmark_return": 36.26
+    },
+    {
+      "date": "2025-08-18",
+      "cumulative_return": 35.2,
+      "benchmark_return": 36.1
+    },
+    {
+      "date": "2025-08-19",
+      "cumulative_return": 34.91,
+      "benchmark_return": 35.54
+    },
+    {
+      "date": "2025-08-20",
+      "cumulative_return": 35.3,
+      "benchmark_return": 35.45
+    },
+    {
+      "date": "2025-08-21",
+      "cumulative_return": 34.51,
+      "benchmark_return": 34.89
+    },
+    {
+      "date": "2025-08-22",
+      "cumulative_return": 35.19,
+      "benchmark_return": 36.91
+    },
+    {
+      "date": "2025-08-25",
+      "cumulative_return": 35.1,
+      "benchmark_return": 36.08
+    },
+    {
+      "date": "2025-08-26",
+      "cumulative_return": 34.9,
+      "benchmark_return": 36.43
+    },
+    {
+      "date": "2025-08-27",
+      "cumulative_return": 35.1,
+      "benchmark_return": 36.64
+    },
+    {
+      "date": "2025-08-28",
+      "cumulative_return": 35.18,
+      "benchmark_return": 37.19
+    },
+    {
+      "date": "2025-08-29",
+      "cumulative_return": 35.07,
+      "benchmark_return": 36.38
+    },
+    {
+      "date": "2025-09-01",
+      "cumulative_return": 35.0,
+      "benchmark_return": 36.38
+    },
+    {
+      "date": "2025-09-02",
+      "cumulative_return": 33.94,
+      "benchmark_return": 35.35
+    },
+    {
+      "date": "2025-09-03",
+      "cumulative_return": 35.67,
+      "benchmark_return": 35.86
+    },
+    {
+      "date": "2025-09-04",
+      "cumulative_return": 36.81,
+      "benchmark_return": 36.99
+    },
+    {
+      "date": "2025-09-05",
+      "cumulative_return": 36.58,
+      "benchmark_return": 36.81
+    },
+    {
+      "date": "2025-09-08",
+      "cumulative_return": 36.88,
+      "benchmark_return": 37.45
+    },
+    {
+      "date": "2025-09-09",
+      "cumulative_return": 36.46,
+      "benchmark_return": 37.69
+    },
+    {
+      "date": "2025-09-10",
+      "cumulative_return": 36.02,
+      "benchmark_return": 37.92
+    },
+    {
+      "date": "2025-09-11",
+      "cumulative_return": 36.67,
+      "benchmark_return": 39.17
+    },
+    {
+      "date": "2025-09-12",
+      "cumulative_return": 36.08,
+      "benchmark_return": 39.0
+    },
+    {
+      "date": "2025-09-15",
+      "cumulative_return": 36.9,
+      "benchmark_return": 39.72
+    },
+    {
+      "date": "2025-09-16",
+      "cumulative_return": 36.35,
+      "benchmark_return": 39.59
+    },
+    {
+      "date": "2025-09-17",
+      "cumulative_return": 36.74,
+      "benchmark_return": 39.24
+    },
+    {
+      "date": "2025-09-18",
+      "cumulative_return": 37.35,
+      "benchmark_return": 39.97
+    },
+    {
+      "date": "2025-09-19",
+      "cumulative_return": 37.26,
+      "benchmark_return": 40.38
+    },
+    {
+      "date": "2025-09-22",
+      "cumulative_return": 37.55,
+      "benchmark_return": 40.9
+    },
+    {
+      "date": "2025-09-23",
+      "cumulative_return": 36.94,
+      "benchmark_return": 40.33
+    },
+    {
+      "date": "2025-09-24",
+      "cumulative_return": 36.23,
+      "benchmark_return": 39.7
+    },
+    {
+      "date": "2025-09-25",
+      "cumulative_return": 35.76,
+      "benchmark_return": 39.07
+    },
+    {
+      "date": "2025-09-26",
+      "cumulative_return": 36.34,
+      "benchmark_return": 39.81
+    },
+    {
+      "date": "2025-09-29",
+      "cumulative_return": 36.95,
+      "benchmark_return": 40.3
+    },
+    {
+      "date": "2025-09-30",
+      "cumulative_return": 37.51,
+      "benchmark_return": 40.79
+    },
+    {
+      "date": "2025-10-01",
+      "cumulative_return": 38.2,
+      "benchmark_return": 41.41
+    },
+    {
+      "date": "2025-10-02",
+      "cumulative_return": 38.57,
+      "benchmark_return": 41.63
+    },
+    {
+      "date": "2025-10-03",
+      "cumulative_return": 38.88,
+      "benchmark_return": 41.91
+    },
+    {
+      "date": "2025-10-06",
+      "cumulative_return": 39.45,
+      "benchmark_return": 42.38
+    },
+    {
+      "date": "2025-10-07",
+      "cumulative_return": 38.53,
+      "benchmark_return": 41.61
+    },
+    {
+      "date": "2025-10-08",
+      "cumulative_return": 38.81,
+      "benchmark_return": 42.31
+    },
+    {
+      "date": "2025-10-09",
+      "cumulative_return": 38.19,
+      "benchmark_return": 41.65
+    },
+    {
+      "date": "2025-10-10",
+      "cumulative_return": 36.36,
+      "benchmark_return": 38.18
+    },
+    {
+      "date": "2025-10-13",
+      "cumulative_return": 37.73,
+      "benchmark_return": 40.08
+    },
+    {
+      "date": "2025-10-14",
+      "cumulative_return": 37.8,
+      "benchmark_return": 40.18
+    },
+    {
+      "date": "2025-10-15",
+      "cumulative_return": 37.86,
+      "benchmark_return": 40.75
+    },
+    {
+      "date": "2025-10-16",
+      "cumulative_return": 37.01,
+      "benchmark_return": 40.26
+    },
+    {
+      "date": "2025-10-17",
+      "cumulative_return": 37.59,
+      "benchmark_return": 40.85
+    },
+    {
+      "date": "2025-10-20",
+      "cumulative_return": 38.98,
+      "benchmark_return": 42.09
+    },
+    {
+      "date": "2025-10-21",
+      "cumulative_return": 39.65,
+      "benchmark_return": 41.8
+    },
+    {
+      "date": "2025-10-22",
+      "cumulative_return": 39.04,
+      "benchmark_return": 41.12
+    },
+    {
+      "date": "2025-10-23",
+      "cumulative_return": 40.16,
+      "benchmark_return": 42.03
+    },
+    {
+      "date": "2025-10-24",
+      "cumulative_return": 40.93,
+      "benchmark_return": 42.9
+    },
+    {
+      "date": "2025-10-27",
+      "cumulative_return": 42.17,
+      "benchmark_return": 44.43
+    },
+    {
+      "date": "2025-10-28",
+      "cumulative_return": 41.48,
+      "benchmark_return": 44.73
+    },
+    {
+      "date": "2025-10-29",
+      "cumulative_return": 40.73,
+      "benchmark_return": 44.39
+    },
+    {
+      "date": "2025-10-30",
+      "cumulative_return": 40.54,
+      "benchmark_return": 43.18
+    },
+    {
+      "date": "2025-10-31",
+      "cumulative_return": 40.21,
+      "benchmark_return": 43.48
+    },
+    {
+      "date": "2025-11-03",
+      "cumulative_return": 40.46,
+      "benchmark_return": 43.73
+    },
+    {
+      "date": "2025-11-04",
+      "cumulative_return": 39.56,
+      "benchmark_return": 41.97
+    },
+    {
+      "date": "2025-11-05",
+      "cumulative_return": 39.7,
+      "benchmark_return": 42.61
+    },
+    {
+      "date": "2025-11-06",
+      "cumulative_return": 38.35,
+      "benchmark_return": 41.26
+    },
+    {
+      "date": "2025-11-07",
+      "cumulative_return": 38.09,
+      "benchmark_return": 41.56
+    },
+    {
+      "date": "2025-11-10",
+      "cumulative_return": 39.26,
+      "benchmark_return": 43.59
+    },
+    {
+      "date": "2025-11-11",
+      "cumulative_return": 40.23,
+      "benchmark_return": 44.04
+    },
+    {
+      "date": "2025-11-12",
+      "cumulative_return": 40.33,
+      "benchmark_return": 44.42
+    },
+    {
+      "date": "2025-11-13",
+      "cumulative_return": 38.79,
+      "benchmark_return": 42.08
+    },
+    {
+      "date": "2025-11-14",
+      "cumulative_return": 38.24,
+      "benchmark_return": 42.05
+    },
+    {
+      "date": "2025-11-17",
+      "cumulative_return": 37.19,
+      "benchmark_return": 40.57
+    },
+    {
+      "date": "2025-11-18",
+      "cumulative_return": 36.38,
+      "benchmark_return": 39.4
+    },
+    {
+      "date": "2025-11-19",
+      "cumulative_return": 36.84,
+      "benchmark_return": 39.62
+    },
+    {
+      "date": "2025-11-20",
+      "cumulative_return": 35.45,
+      "benchmark_return": 37.48
+    },
+    {
+      "date": "2025-11-21",
+      "cumulative_return": 37.4,
+      "benchmark_return": 38.94
+    },
+    {
+      "date": "2025-11-24",
+      "cumulative_return": 38.16,
+      "benchmark_return": 40.48
+    },
+    {
+      "date": "2025-11-25",
+      "cumulative_return": 39.96,
+      "benchmark_return": 42.08
+    },
+    {
+      "date": "2025-11-26",
+      "cumulative_return": 40.38,
+      "benchmark_return": 43.25
+    },
+    {
+      "date": "2025-11-27",
+      "cumulative_return": 40.58,
+      "benchmark_return": 43.25
+    },
+    {
+      "date": "2025-11-28",
+      "cumulative_return": 41.29,
+      "benchmark_return": 43.97
+    },
+    {
+      "date": "2025-12-01",
+      "cumulative_return": 40.29,
+      "benchmark_return": 43.32
+    },
+    {
+      "date": "2025-12-02",
+      "cumulative_return": 40.53,
+      "benchmark_return": 43.67
+    },
+    {
+      "date": "2025-12-03",
+      "cumulative_return": 40.68,
+      "benchmark_return": 44.28
+    },
+    {
+      "date": "2025-12-04",
+      "cumulative_return": 40.28,
+      "benchmark_return": 44.42
+    },
+    {
+      "date": "2025-12-05",
+      "cumulative_return": 40.44,
+      "benchmark_return": 44.68
+    },
+    {
+      "date": "2025-12-08",
+      "cumulative_return": 40.15,
+      "benchmark_return": 44.16
+    },
+    {
+      "date": "2025-12-09",
+      "cumulative_return": 39.42,
+      "benchmark_return": 44.14
+    },
+    {
+      "date": "2025-12-10",
+      "cumulative_return": 39.55,
+      "benchmark_return": 45.11
+    },
+    {
+      "date": "2025-12-11",
+      "cumulative_return": 40.38,
+      "benchmark_return": 45.67
+    },
+    {
+      "date": "2025-12-12",
+      "cumulative_return": 39.97,
+      "benchmark_return": 44.3
+    },
+    {
+      "date": "2025-12-15",
+      "cumulative_return": 40.18,
+      "benchmark_return": 44.43
+    },
+    {
+      "date": "2025-12-16",
+      "cumulative_return": 39.79,
+      "benchmark_return": 43.98
+    },
+    {
+      "date": "2025-12-17",
+      "cumulative_return": 38.79,
+      "benchmark_return": 42.5
+    },
+    {
+      "date": "2025-12-18",
+      "cumulative_return": 40.33,
+      "benchmark_return": 43.58
+    },
+    {
+      "date": "2025-12-19",
+      "cumulative_return": 41.46,
+      "benchmark_return": 44.76
+    },
+    {
+      "date": "2025-12-22",
+      "cumulative_return": 42.0,
+      "benchmark_return": 45.62
+    },
+    {
+      "date": "2025-12-23",
+      "cumulative_return": 42.4,
+      "benchmark_return": 46.34
+    },
+    {
+      "date": "2025-12-24",
+      "cumulative_return": 42.72,
+      "benchmark_return": 46.74
+    },
+    {
+      "date": "2025-12-26",
+      "cumulative_return": 42.93,
+      "benchmark_return": 46.81
+    },
+    {
+      "date": "2025-12-29",
+      "cumulative_return": 42.66,
+      "benchmark_return": 46.26
+    },
+    {
+      "date": "2025-12-30",
+      "cumulative_return": 42.59,
+      "benchmark_return": 46.19
+    }
+  ]
+}
